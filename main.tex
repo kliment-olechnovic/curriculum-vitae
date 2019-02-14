@@ -1,6 +1,6 @@
 \documentclass{article}
 
-\usepackage[left=2cm,top=2cm,right=2cm,bottom=2cm,nohead,foot=1cm]{geometry}
+\usepackage[left=2.5cm,top=2cm,right=2.5cm,bottom=2cm,nohead,foot=1cm]{geometry}
 \usepackage[unicode]{hyperref}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
@@ -25,12 +25,20 @@
 
 \thispagestyle{empty}
 
-
 \sectionfont{\large}
 
 \setlength\parindent{0em}
 
+\newenvironment{enumerate_tight}{
+\begin{enumerate}
+  \setlength{\itemsep}{2pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+}{\end{enumerate}}
+
+
 \begin{document}
+
 
 \begin{center}
 {\huge \bf \name}
@@ -47,7 +55,7 @@ First name:          & Kliment\\
 Last name:           & Olechnovi\v{c}\\
 Birth date:          & 1987.08.18 \\
 Occupation:          & Research Scientist \\
-Workplace:           & Vilnius University, Life Sciences Center, Institute of Biotechnology \\
+Workplace:           & Vilnius University Life Sciences Center Institute of Biotechnology \\
 Address:             & Saul\.{e}tekio 7, LT-10257 Vilnius \\
 Phone:               & +370-60491418 \\
 Email:               & \href{mailto:kliment.olechnovic@bti.vu.lt}{\tt kliment.olechnovic@bti.vu.lt} \\
@@ -64,16 +72,22 @@ Email:               & \href{mailto:kliment.olechnovic@bti.vu.lt}{\tt kliment.ol
 
 \section*{Work experience}
 \begin{tabular}{p{0.12\textwidth}p{0.85\textwidth}}
-2017 -- now  & Research Scientist (Vilnius University, Life Sciences Center, Institute of Biotechnology)\\
-2013 -- 2017 & Junior Research Scientist (Vilnius University, Institute of Biotechnology) \\
-2010 -- 2013 & Research Engineer (Vilnius University, Institute of Biotechnology) \\
+2017 -- now  & Research Scientist (Vilnius University Life Sciences Center Institute of Biotechnology)\\
+2013 -- 2017 & Junior Research Scientist (Vilnius University Institute of Biotechnology) \\
+2010 -- 2013 & Research Engineer (Vilnius University Institute of Biotechnology) \\
 2009 -- 2010 & Research Engineer (Institute of Biotechnology, Vilnius) \\
 2007 -- 2009 & C++ software developer (4Team Corporation, Vilnius)
 \end{tabular}
 
 
 \section*{Publications}
-\begin{enumerate}
+\begin{enumerate_tight}
+  \item Kliment Olechnovi\v{c}, Bohdan Monastyrskyy, Andriy Kryshtafovych and \v{C}eslovas Venclovas.
+        \emph{Comparative analysis of methods for evaluation of protein models against native structures}.
+        Bioinformatics (2018) doi: 10.1093/bioinformatics/bty760 [Epub ahead of print].
+  \item Justas Dapk\={u}nas, Kliment Olechnovi\v{c} and \v{C}eslovas Venclovas.
+        \emph{Modeling of protein complexes in CAPRI Round 37 using template-based approach combined with model selection}.
+        Proteins (2018) 86 (Suppl 1): 292-301.
   \item Kliment Olechnovi\v{c} and \v{C}eslovas Venclovas.
         \emph{VoroMQA: Assessment of protein structure quality using interatomic contact areas}.
         Proteins (2017) 85 (6): 1131-1145. \emph{Featured on the cover}.
@@ -95,7 +109,7 @@ Email:               & \href{mailto:kliment.olechnovic@bti.vu.lt}{\tt kliment.ol
   \item Kliment Olechnovi\v{c}, Mindaugas Margelevi\v{c}ius and \v{C}eslovas Venclovas.
         \emph{Voroprot: an interactive tool for the analysis and visualization of complex geometric features of protein structure}.
         Bioinformatics (2011) 27 (5): 723-724.
-\end{enumerate}
+\end{enumerate_tight}
 
 
 \section*{Awards}
