@@ -8,6 +8,8 @@
 \usepackage[absolute]{textpos}
 \usepackage{setspace}
 \usepackage{palatino}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
 
 \setlength{\TPHorizModule}{\paperwidth}\setlength{\TPVertModule}{\paperheight}
 
@@ -42,6 +44,12 @@
 }{\end{itemize}}
 
 \renewcommand{\arraystretch}{1.4}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\cfoot{Page \thepage\ of \pageref*{LastPage}}
 
 
 \begin{document}
@@ -132,7 +140,7 @@ Email:               & \href{mailto:kliment.olechnovic@bti.vu.lt}{\tt kliment.ol
 
 \subsection*{Presentations}
 \begin{itemize_tight}
-  \item 5 oral presentations at at international conferences:
+  \item 5 oral presentations at international conferences:
     \begin{itemize_tight}
       \item CASP10 meeting, Italy (2012)
       \item CASP12 meeting, Italy (2016)
