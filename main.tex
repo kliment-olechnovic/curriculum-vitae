@@ -10,6 +10,7 @@
 \usepackage{palatino}
 \usepackage{lastpage}
 \usepackage{fancyhdr}
+\usepackage{graphicx}
 
 \setlength{\TPHorizModule}{\paperwidth}\setlength{\TPVertModule}{\paperheight}
 
@@ -54,7 +55,7 @@
 
 \begin{document}
 
-
+\begin{minipage}{0.75\linewidth}
 \begin{center}
 {\huge \bf \name}
 \end{center}
@@ -62,7 +63,26 @@
 \begin{center}
 {\Large Curriculum Vitae}
 \end{center}
+\end{minipage}
+\begin{minipage}{0.25\linewidth}
+\includegraphics[width=\linewidth]{photo.jpg}
+\end{minipage}
 
+
+\section*{Main research interests}
+
+\begin{minipage}{0.3\linewidth}
+\begin{itemize_tight}
+  \item Structural bioinformatics
+  \item Machine learning
+\end{itemize_tight}
+\end{minipage}
+\begin{minipage}{0.7\linewidth}
+\begin{itemize_tight}
+  \item Computational geometry
+  \item Parallel computing
+\end{itemize_tight}
+\end{minipage}
 
 \section*{Personal information}
 \begin{tabular}{p{0.12\textwidth}p{0.85\textwidth}}
@@ -70,11 +90,6 @@ First name:          & Kliment \\
 Last name:           & Olechnovič \\
 Birth year:          & 1987 \\
 Occupation:          & Research Scientist \\
-\end{tabular}
-
-
-\section*{Contact information}
-\begin{tabular}{p{0.12\textwidth}p{0.85\textwidth}}
 Workplace:           & Vilnius University / Life Sciences Center / Institute of Biotechnology \\
 Address:             & Saulėtekio 7, LT-10257 Vilnius \\
 Email:               & \href{mailto:kliment.olechnovic@bti.vu.lt}{\tt kliment.olechnovic@bti.vu.lt} \\
