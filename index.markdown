@@ -1,15 +1,15 @@
-# Dr. Kliment Olechnovič
+# Dr. Kliment Olechnovič — Curriculum Vitae
 
 
 ## General information
 
-Current occupation:
+**Current occupation**
 : Research Scientist in Vilnius University
 
-Email:
+**Email**
 : <kliment.olechnovic@bti.vu.lt>
 
-Address:
+**Address**
 : Saulėtekio 7, LT-10257 Vilnius
 
 
@@ -23,31 +23,31 @@ Address:
 
 ## Education
 
-2012-2017
+**2012–2017**
 : Ph.D. Computer Science, Vilnius University
 
-2010-2012
+**2010–2012**
 : M.S. Computer Science, Vilnius University (*Magna Cum Laude*)
 
-2005-2009
+**2005–2009**
 : B.S. Bioinformatics, Vilnius University
 
 
 ## Work experience
 
-2017-now
+**2017–now**
 : Research Scientist (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
-2013-2017
+**2013–2017**
 : Junior Research Scientist (Vilnius University / Institute of Biotechnology)
 
-2010-2013
+**2010–2013**
 : Research Engineer (Vilnius University / Institute of Biotechnology)
 
-2009-2010
+**2009–2010**
 : Research Engineer (Institute of Biotechnology, Vilnius)
 
-2007-2009
+**2007–2008**
 : C++ software developer (4Team Corporation, Vilnius)
 
 
@@ -58,49 +58,49 @@ Address:
 1. [Template-based modeling of diverse protein interactions in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25845).  
 Dapkūnas J, Kairys V, **Olechnovič K**, Venclovas Č.  
 *Proteins*. 2019 Nov 7.  
-[doi:10.1002/prot.25845](https://doi.org/10.1002/prot.25845).
+[doi:10.1002/prot.25845](https://doi.org/10.1002/prot.25845).  
 [PMID:31697420](https://www.ncbi.nlm.nih.gov/pubmed/31697420).
 
 1. [Blind prediction of homo- and hetero-protein complexes: The CASP13-CAPRI experiment](https://doi.org/10.1002/prot.25838).  
 Lensink MF, Brysbaert G, Nadzirin N, Velankar S, Chaleil RAG, Gerguri T, Bates PA, Laine E, Carbone A, Grudinin S, Kong R, Liu RR, Xu XM, Shi H, Chang S, Eisenstein M, Karczynska A, Czaplewski C, Lubecka E, Lipska A, Krupa P, Mozolewska M, Golon Ł, Samsonov S, Liwo A, Crivelli S, Pagès G, Karasikov M, Kadukova M, Yan Y, Huang SY, Rosell M, Rodríguez-Lumbreras LA, Romero-Durana M, Díaz-Bueno L, Fernandez-Recio J, Christoffer C, Terashi G, Shin WH, Aderinwale T, Maddhuri Venkata Subraman SR, Kihara D, Kozakov D, Vajda S, Porter K, Padhorny D, Desta I, Beglov D, Ignatov M, Kotelnikov S, Moal IH, Ritchie DW, Chauvot de Beauchêne I, Maigret B, Devignes MD, Ruiz Echartea ME, Barradas-Bautista D, Cao Z, Cavallo L, Oliva R, Cao Y, Shen Y, Baek M, Park T, Woo H, Seok C, Braitbard M, Bitton L, Scheidman-Duhovny D, Dapkūnas J, **Olechnovič K**, Venclovas Č, Kundrotas PJ, Belkin S, Chakravarty D, Badal VD, Vakser IA, Vreven T, Vangaveti S, Borrman T, Weng Z, Guest JD, Gowthaman R, Pierce BG, Xu X, Duan R, Qiu L, Hou J, Ryan Merideth B, Ma Z, Cheng J, Zou X, Koukos PI, Roel-Touris J, Ambrosetti F, Geng C, Schaarschmidt J, Trellet ME, Melquiond ASJ, Xue L, Jiménez-García B, van Noort CW, Honorato RV, Bonvin AMJJ, Wodak SJ.  
 *Proteins*. 2019 Dec;87(12):1200-1221.  
-[doi:10.1002/prot.25838](https://doi.org/10.1002/prot.25838).
+[doi:10.1002/prot.25838](https://doi.org/10.1002/prot.25838).  
 [PMID:31612567](https://www.ncbi.nlm.nih.gov/pubmed/31612567).
 
 1. [Structural modeling of protein complexes: Current capabilities and challenges](https://doi.org/10.1002/prot.25774).  
 Dapkūnas J, **Olechnovič K**, Venclovas Č.  
 *Proteins*. 2019 Dec;87(12):1222-1232.  
-[doi:10.1002/prot.25774](https://doi.org/10.1002/prot.25774).
+[doi:10.1002/prot.25774](https://doi.org/10.1002/prot.25774).  
 [PMID:31294859](https://www.ncbi.nlm.nih.gov/pubmed/31294859).
 
 1. [Estimation of model accuracy in CASP13](https://doi.org/10.1002/prot.25767).  
 Cheng J, Choe MH, Elofsson A, Han KS, Hou J, Maghrabi AHA, McGuffin LJ, Menéndez-Hurtado D, **Olechnovič K**, Schwede T, Studer G, Uziela K, Venclovas Č, Wallner B.  
 *Proteins*. 2019 Dec;87(12):1361-1377.  
-[doi:10.1002/prot.25767](https://doi.org/10.1002/prot.25767).
+[doi:10.1002/prot.25767](https://doi.org/10.1002/prot.25767).  
 [PMID:31265154](https://www.ncbi.nlm.nih.gov/pubmed/31265154).
 
 1. [VoroMQA web server for assessing three-dimensional structures of proteins and protein complexes](https://doi.org/10.1093/nar/gkz367).  
 **Olechnovič K**, Venclovas Č.  
 *Nucleic Acids Res*. 2019 Jul 2;47(W1):W437-W442.  
-[doi:10.1093/nar/gkz367](https://doi.org/10.1093/nar/gkz367).
+[doi:10.1093/nar/gkz367](https://doi.org/10.1093/nar/gkz367).  
 [PMID:31073605](https://www.ncbi.nlm.nih.gov/pubmed/31073605).
 
 1. [Comparative analysis of methods for evaluation of protein models against native structures](https://doi.org/10.1093/bioinformatics/bty760).  
 **Olechnovič K**, Monastyrskyy B, Kryshtafovych A, Venclovas Č.  
 *Bioinformatics*. 2019 Mar 15;35(6):937-944.  
-[doi:10.1093/bioinformatics/bty760](https://doi.org/10.1093/bioinformatics/bty760).
+[doi:10.1093/bioinformatics/bty760](https://doi.org/10.1093/bioinformatics/bty760).  
 [PMID:30169622](https://www.ncbi.nlm.nih.gov/pubmed/30169622).
 
 1. [Modeling of protein complexes in CAPRI Round 37 using template-based approach combined with model selection](https://doi.org/10.1002/prot.25378).  
 Dapkūnas J, **Olechnovič K**, Venclovas Č.  
 *Proteins*. 2018 Mar;86 Suppl 1:292-301.  
-[doi:10.1002/prot.25378](https://doi.org/10.1002/prot.25378).
+[doi:10.1002/prot.25378](https://doi.org/10.1002/prot.25378).  
 [PMID:28905467](https://www.ncbi.nlm.nih.gov/pubmed/28905467).
 
 1. [VoroMQA: Assessment of protein structure quality using interatomic contact areas](https://doi.org/10.1002/prot.25278).  
 **Olechnovič K**, Venclovas Č.  
 *Proteins*. 2017 Jun;85(6):1131-1145.  
-[doi:10.1002/prot.25278](https://doi.org/10.1002/prot.25278).
+[doi:10.1002/prot.25278](https://doi.org/10.1002/prot.25278).  
 [PMID:28263393](https://www.ncbi.nlm.nih.gov/pubmed/28263393).
 
 1. [The PPI3D web server for searching, analyzing and modeling protein-protein interactions in the context of 3D structures](https://doi.org/10.1093/bioinformatics/btw756).  
@@ -112,31 +112,31 @@ Dapkunas J, Timinskas A, **Olechnovič K**, Margelevicius M, Diciunas R, Venclov
 1. [The CAD-score web server: contact area-based comparison of structures and interfaces of proteins, nucleic acids and their complexes](https://doi.org/10.1093/nar/gku294).  
 **Olechnovič K**, Venclovas Č.  
 *Nucleic Acids Res*. 2014 Jul;42(Web Server issue):W259-63.  
-[doi:10.1093/nar/gku294](https://doi.org/10.1093/nar/gku294).
+[doi:10.1093/nar/gku294](https://doi.org/10.1093/nar/gku294).  
 [PMID:24838571](https://www.ncbi.nlm.nih.gov/pubmed/24838571).
 
 1. [The use of interatomic contact areas to quantify discrepancies between RNA 3D models and reference structures](https://doi.org/10.1093/nar/gku191).  
 **Olechnovič K**, Venclovas Č.  
 *Nucleic Acids Res*. 2014 May;42(9):5407-15.  
-[doi:10.1093/nar/gku191](https://doi.org/10.1093/nar/gku191).
+[doi:10.1093/nar/gku191](https://doi.org/10.1093/nar/gku191).  
 [PMID:24623815](https://www.ncbi.nlm.nih.gov/pubmed/24623815).
 
 1. [Voronota: A fast and reliable tool for computing the vertices of the Voronoi diagram of atomic balls](https://doi.org/10.1002/jcc.23538).  
 **Olechnovič K**, Venclovas Č.  
 *J Comput Chem*. 2014 Mar 30;35(8):672-81.  
-[doi:10.1002/jcc.23538](https://doi.org/10.1002/jcc.23538).
+[doi:10.1002/jcc.23538](https://doi.org/10.1002/jcc.23538).  
 [PMID:24523197](https://www.ncbi.nlm.nih.gov/pubmed/24523197).
 
 1. [CAD-score: a new contact area difference-based function for evaluation of protein structural models](https://doi.org/10.1002/prot.24172).  
 **Olechnovič K**, Kulberkytė E, Venclovas Č.  
 *Proteins*. 2013 Jan;81(1):149-62.  
-[doi:10.1002/prot.24172](https://doi.org/10.1002/prot.24172).
+[doi:10.1002/prot.24172](https://doi.org/10.1002/prot.24172).  
 [PMID:22933340](https://www.ncbi.nlm.nih.gov/pubmed/22933340).
 
 1. [Voroprot: an interactive tool for the analysis and visualization of complex geometric features of protein structure](https://doi.org/10.1093/bioinformatics/btq720).  
 **Olechnovič K**, Margelevicius M, Venclovas Č.  
 Bioinformatics. 2011 Mar 1;27(5):723-4.  
-[doi:10.1093/bioinformatics/btq720](https://doi.org/10.1093/bioinformatics/btq720).
+[doi:10.1093/bioinformatics/btq720](https://doi.org/10.1093/bioinformatics/btq720).  
 [PMID:21186248](https://www.ncbi.nlm.nih.gov/pubmed/21186248).
 
 
@@ -156,6 +156,10 @@ In: *Matulis D. (eds) Carbonic Anhydrase as Drug Target*. Springer, Cham. 2019.
 * [Methods for the analysis and assessment of the three-dimensional structures of proteins and nucleic acids: development and applications](https://epublications.vu.lt/object/elaba:22955146/).  
 **Olechnovič K**.  
 Doctoral dissertation, Vilnius University, 2017.
+
+* [Baltymų ir nukleorūgščių erdvinių struktūrų analizės ir vertinimo metodai: kūrimas ir taikymas](https://epublications.vu.lt/object/elaba:22955391/).  
+**Olechnovič K**.  
+Doctoral dissertation summary in Lithuanian, Vilnius University, 2017.
 
 * [Kompiuteriai padeda pažinti sudėtingą baltymų pasaulį](https://issuu.com/vu_lt/docs/spectrum26.2017/6).  
 Dapkūnas J, **Olechnovič K**.  
