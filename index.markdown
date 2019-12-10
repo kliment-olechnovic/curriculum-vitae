@@ -3,7 +3,7 @@
 
 ## General information
 
-**Current occupation**
+**Occupation**
 : Research Scientist in Vilnius University
 
 **Email**
