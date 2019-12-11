@@ -219,6 +219,25 @@ Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
 : INFOBALT incentive scholarship for young scientists
 
 
+### Conference awards
+
+**2019**
+: ISCB Art in Science Award Winner at "ISMB/ECCB 2019".
+Work title: "Disassembled tessellation".
+
+**2016**
+: Poster selected for an oral presentation at "12th Community Wide Experiment on the Critical Assessment of Techniques for Protein Structure Prediction (CASP12 meeting)".
+Poster title: *VoroMQA: assessment of protein structure quality using interatomic contact areas derived from the Voronoi tessellation of atomic balls*.
+
+**2013**
+: Best poster award at "Society for Bioinformatics in Northern European countries (SocBiN)".
+Poster title: *The use of interatomic contact areas for the assessment of RNA 3D structural models*.
+
+**2012**
+: Poster selected for an oral presentation at "EMBO Conference on Critical Assessment of Protein Structure Prediction (CASP10 meeting)".
+Poster title: *CAD-score: a new method for the evaluation of protein structural models*.
+
+
 ### Other achievements
 
 **2018**
@@ -255,10 +274,12 @@ Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
 : native or bilingual proficiency
 
 
-## Links to this CV
+## Links to the latest version of this CV
 
 * [HTML version](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
 
 * [PDF version](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf)
+
+
 
 
