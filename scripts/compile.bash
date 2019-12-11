@@ -1,7 +1,7 @@
 #!/bin/bash
 
-rm ./index.html ./index.pdf
+rm ./index.html ./Kliment_Olechnovic_CV.pdf
 
-pandoc ./index.markdown --css pandoc.css -f markdown -t html -s -o ./index.html
+pandoc ./Kliment_Olechnovic_CV.markdown --css pandoc.css -f markdown -t html -s -o ./index.html
 
-wkhtmltopdf ./index.html ./Kliment_Olechnovic_CV.pdf > /dev/null
+wkhtmltopdf -L 10mm -R 10mm -T 10mm -B 10mm ./index.html ./Kliment_Olechnovic_CV.pdf > /dev/null
