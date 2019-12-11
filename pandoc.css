@@ -1,12 +1,28 @@
+html
+{
+	font-family: 'Liberation Serif', 'FreeSerif', 'serif';
+	font-size: 1em;
+}
+
+body
+{
+	line-height: 1.2;
+	padding: 1em;
+	margin: auto;
+	min-width: 45em;
+	max-width: 60em;
+	background: #fefefe;	
+}
+
 dt
 {
 	float: left;
 	clear: left;
-	width: 130px;
+	width: 9em;
 }
 
 dd
 {
-	margin: 0 0 0 140px;
+	margin: 0 0 0 10em;
 	padding: 0 0 0.5em 0;
 }

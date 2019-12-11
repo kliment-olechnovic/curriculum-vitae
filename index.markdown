@@ -1,10 +1,11 @@
 # Dr. Kliment Olechnovič — Curriculum Vitae
 
+<img style="width:200px;float:right;" src="photo.jpg">
 
 ## General information
 
 **Occupation**
-: Research Scientist in Vilnius University
+: Research Scientist at Vilnius University
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
@@ -52,6 +53,7 @@
 
 
 ## Publications
+
 
 ### Papers in peer-reviewed journals
 
@@ -104,7 +106,7 @@ Dapkūnas J, **Olechnovič K**, Venclovas Č.
 [PMID:28263393](https://www.ncbi.nlm.nih.gov/pubmed/28263393).
 
 1. [The PPI3D web server for searching, analyzing and modeling protein-protein interactions in the context of 3D structures](https://doi.org/10.1093/bioinformatics/btw756).  
-Dapkunas J, Timinskas A, **Olechnovič K**, Margelevicius M, Diciunas R, Venclovas Č.  
+Dapkūnas J, Timinskas A, **Olechnovič K**, Margelevičius M, Diciunas R, Venclovas Č.  
 *Bioinformatics*. 2017 Mar 15;33(6):935-937.  
 [doi:10.1093/bioinformatics/btw756](https://doi.org/10.1093/bioinformatics/btw756).  
 [PMID:28011769](https://www.ncbi.nlm.nih.gov/pubmed/28011769).
@@ -134,7 +136,7 @@ Dapkunas J, Timinskas A, **Olechnovič K**, Margelevicius M, Diciunas R, Venclov
 [PMID:22933340](https://www.ncbi.nlm.nih.gov/pubmed/22933340).
 
 1. [Voroprot: an interactive tool for the analysis and visualization of complex geometric features of protein structure](https://doi.org/10.1093/bioinformatics/btq720).  
-**Olechnovič K**, Margelevicius M, Venclovas Č.  
+**Olechnovič K**, Margelevičius M, Venclovas Č.  
 Bioinformatics. 2011 Mar 1;27(5):723-4.  
 [doi:10.1093/bioinformatics/btq720](https://doi.org/10.1093/bioinformatics/btq720).  
 [PMID:21186248](https://www.ncbi.nlm.nih.gov/pubmed/21186248).
@@ -151,7 +153,7 @@ Kairys V, **Olechnovič K**, Raškevičius V, Matulis D.
 In: *Matulis D. (eds) Carbonic Anhydrase as Drug Target*. Springer, Cham. 2019.
 
 
-### Other publications
+### Doctoral dissertation
 
 * [Methods for the analysis and assessment of the three-dimensional structures of proteins and nucleic acids: development and applications](https://epublications.vu.lt/object/elaba:22955146/).  
 **Olechnovič K**.  
@@ -161,6 +163,9 @@ Doctoral dissertation, Vilnius University, 2017.
 **Olechnovič K**.  
 Doctoral dissertation summary in Lithuanian, Vilnius University, 2017.
 
+
+### Other publications
+
 * [Kompiuteriai padeda pažinti sudėtingą baltymų pasaulį](https://issuu.com/vu_lt/docs/spectrum26.2017/6).  
 Dapkūnas J, **Olechnovič K**.  
 Popular science article in *SPECTRUM*. 2017 1(26), ISSN 1822-0147.
@@ -169,6 +174,85 @@ Popular science article in *SPECTRUM*. 2017 1(26), ISSN 1822-0147.
 **Olechnovič K**, Venclovas Č.  
 Cover Image for *Proteins*. 2019 Volume 85, Issue 6.  
 [doi:10.1002/prot.25129](https://doi.org/10.1002/prot.25129).
+
+
+## Achievements and awards
+
+
+### Achievements in CASP and CAPRI experiments
+
+CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions)
+are world-wide experiments dedicated to blind testing of methods for protein structural bioinformatics.
+
+**2018**
+: Contributed to the best results in modeling structures of protein complexes in CASP13 and CASP13-CAPRI experiments.
+Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
+
+**2018**
+: Top results in EMA (estimation of model accuracy) in CASP13 experiment.
+Groups "VoroMQA" and "VoroMQAsr", members: Olechnovič K, Venclovas Č.
+
+**2016**
+: Contributed to the best results in modeling structures of protein complexes in CASP12-CAPRI experiment.
+Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
+
+**2016**
+: Top results in protein structure prediction in CASP12 experiment.
+Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
+
+
+### National awards
+
+**2019**
+: Lithuanian Academy of Sciences scholarship for young scientists
+
+**2018**
+: Laureate of the "Best doctoral dissertation of 2017 in Lithuania" contest
+
+**2015**
+: Lithuanian Academy of Sciences award for the best works by young researchers in 2014
+
+**2013–2014**
+: The Research Council of Lithuania scholarship for PhD students actively conducting scientific research
+
+**2013**
+: INFOBALT incentive scholarship for young scientists
+
+
+### Other achievements
+
+**2018**
+: Judo champion of Lithuania, judo black belt.
+
+**2018**
+: Sambo champion of Lithuania.
+
+
+## Online profiles
+
+**Google Scholar**
+: <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
+
+**ORCID**
+: <https://orcid.org/0000-0003-4918-9505>
+
+**GitHub**
+: <https://github.com/kliment-olechnovic>
+
+**Bitbucket**
+: <https://bitbucket.org/kliment>
+
+
+## Languages
+
+**English**
+: full professional proficiency
+
+**Lithuanian**
+: native or bilingual proficiency
+
+**Russian**
+: native or bilingual proficiency
 
 
 

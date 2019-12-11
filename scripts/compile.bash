@@ -2,6 +2,6 @@
 
 rm ./index.html ./index.pdf
 
-pandoc ./index.markdown -f markdown -t html -s -o ./index.html --css pandoc.css
+pandoc ./index.markdown --css pandoc.css -f markdown -t html -s -o ./index.html
 
-wkhtmltopdf ./index.html ./index.pdf > /dev/null
+wkhtmltopdf ./index.html ./Kliment_Olechnovic_CV.pdf > /dev/null
