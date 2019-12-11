@@ -255,4 +255,10 @@ Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
 : native or bilingual proficiency
 
 
+## Links to this CV
+
+* [HTML version](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
+
+* [PDF version](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf)
+
 
