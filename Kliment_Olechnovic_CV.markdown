@@ -2,6 +2,11 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
+File updated on 2019-12-11.
+Latest file location:
+[pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf),
+[html](https://kliment-olechnovic.github.io/curriculum-vitae/index.html).
+
 ## General information
 
 **Occupation**
@@ -272,14 +277,5 @@ Poster title: *CAD-score: a new method for the evaluation of protein structural 
 
 **Russian**
 : native or bilingual proficiency
-
-
-## Links to the latest version of this CV
-
-* [HTML version](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
-
-* [PDF version](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf)
-
-
 
 
