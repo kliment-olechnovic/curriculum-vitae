@@ -1,6 +1,6 @@
 html
 {
-	font-family: 'Liberation Serif', 'FreeSerif', 'serif';
+	font-family: 'Liberation Serif', 'Times', 'serif';
 	font-size: 1em;
 }
 
@@ -11,18 +11,23 @@ body
 	margin: auto;
 	min-width: 45em;
 	max-width: 60em;
-	background: #fefefe;	
+	background: #ffffff;
+}
+
+a
+{
+	color: #0000aa;
 }
 
 dt
 {
 	float: left;
 	clear: left;
-	width: 9em;
+	width: 8em;
 }
 
 dd
 {
-	margin: 0 0 0 10em;
+	margin: 0 0 0 8.5em;
 	padding: 0 0 0.5em 0;
 }

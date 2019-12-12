@@ -2,10 +2,11 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
-File updated on 2019-12-11.
-Latest file location:
-[pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf),
-[html](https://kliment-olechnovic.github.io/curriculum-vitae/index.html).
+Updated on 2019-12-11.  
+Latest CV online:
+[kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
+ | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
+
 
 ## General information
 
