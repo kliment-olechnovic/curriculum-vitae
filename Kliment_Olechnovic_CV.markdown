@@ -184,7 +184,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ## Presentations
 
-### Oral presentations at international conferences:
+### Oral presentations at international conferences
 
 * COINS, Lithuania, Vilnius (2019), *keynote presentation*
 * CASP13 meeting, Mexico, Riviera Maya (2018)
@@ -192,7 +192,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 * CASP12 meeting, Italy, Gaeta (2016)
 * CASP10 meeting, Italy, Gaeta (2012)
 
-### Poster presentations at international conferences:
+### Poster presentations at international conferences
 
 * ISMB, Switzerland, Basel (2019)
 * CASP13 meeting, Mexico, Riviera Maya (2018)
@@ -208,7 +208,9 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 * ISMB, Austria, Vienna (2011)
 * ECCB, Belgium, Ghent (2010)
 * VizBi, Germany, Heidelberg (2010)
-    
+
+Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
+
 
 ## Achievements and awards
 
