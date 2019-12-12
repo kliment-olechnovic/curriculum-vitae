@@ -182,6 +182,34 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 [doi:10.1002/prot.25129](https://doi.org/10.1002/prot.25129).
 
 
+## Presentations
+
+### Oral presentations at international conferences:
+
+* COINS, Lithuania, Vilnius (2019), *keynote presentation*
+* CASP13 meeting, Mexico, Riviera Maya (2018)
+* VitaScientia, Lithuania, Vilnius (2018)
+* CASP12 meeting, Italy, Gaeta (2016)
+* CASP10 meeting, Italy, Gaeta (2012)
+
+### Poster presentations at international conferences:
+
+* ISMB, Switzerland, Basel (2019)
+* CASP13 meeting, Mexico, Riviera Maya (2018)
+* CASP12 meeting, Italy, Gaeta (2016)
+* ECCB, Netherlands, Hague (2016)
+* CASP11 meeting, Mexico, Riviera Maya (2014)
+* ECCB, France, Strasbourg (2014)
+* ISMB, Germany, Berlin (2013)
+* SocBiN, Poland, Torun (2013)
+* CASP10 meeting, Italy, Gaeta (2012)
+* ECCB, Switzerland, Basel (2012)
+* SAGA, Lithuania, Vilnius (2011)
+* ISMB, Austria, Vienna (2011)
+* ECCB, Belgium, Ghent (2010)
+* VizBi, Germany, Heidelberg (2010)
+    
+
 ## Achievements and awards
 
 
