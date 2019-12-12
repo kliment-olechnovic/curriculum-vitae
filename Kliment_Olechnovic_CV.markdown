@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
-Updated on 2019-12-11.  
+Updated on 2019-12-12.  
 Latest CV online:
 [kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -188,7 +188,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 ### Achievements in CASP and CAPRI experiments
 
 CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions)
-are world-wide experiments dedicated to blind testing of methods for protein structural bioinformatics.
+are world-wide experiments focused on the blind testing of methods for protein structural bioinformatics.
 
 **2018**
 : Contributed to the best results in modeling structures of protein complexes in CASP13 and CASP13-CAPRI experiments.
@@ -196,7 +196,7 @@ Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2018**
 : Top results in EMA (estimation of model accuracy) in CASP13 experiment.
-Groups "VoroMQA" and "VoroMQAsr", members: Olechnovič K, Venclovas Č.
+Groups "VoroMQA-A" and "VoroMQA-B", members: Olechnovič K, Venclovas Č.
 
 **2016**
 : Contributed to the best results in modeling structures of protein complexes in CASP12-CAPRI experiment.
