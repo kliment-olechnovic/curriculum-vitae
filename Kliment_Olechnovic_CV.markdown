@@ -220,6 +220,10 @@ Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](ht
 CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions)
 are world-wide experiments focused on the blind testing of methods for protein structural bioinformatics.
 
+**2019**
+: Contributed to top results (ranked 3rd) in modeling structures of protein complexes in the CAPRI experiment rounds 38–45.
+Group "Venclovas", members: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
+
 **2018**
 : Contributed to the best results in modeling structures of protein complexes in CASP13 and CASP13-CAPRI experiments.
 Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
@@ -300,13 +304,8 @@ Poster title: *CAD-score: a new method for the evaluation of protein structural 
 
 ## Languages
 
-**English**
-: full professional proficiency
-
-**Lithuanian**
-: native or bilingual proficiency
-
-**Russian**
-: native or bilingual proficiency
+* **English** (full professional proficiency)
+* **Lithuanian** (native/bilingual proficiency)
+* **Russian** (native/bilingual proficiency)
 
 
