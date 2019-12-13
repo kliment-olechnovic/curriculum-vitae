@@ -225,7 +225,7 @@ are world-wide experiments focused on the blind testing of methods for protein s
 Group "Venclovas", members: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
 
 **2018**
-: Contributed to the best results in modeling structures of protein complexes in CASP13 and CASP13-CAPRI experiments.
+: Contributed to the best results (ranked 1st) in modeling structures of protein complexes in CASP13 and CASP13-CAPRI experiments.
 Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2018**
@@ -233,7 +233,7 @@ Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 Groups "VoroMQA-A" and "VoroMQA-B", members: Olechnovič K, Venclovas Č.
 
 **2016**
-: Contributed to the best results in modeling structures of protein complexes in CASP12-CAPRI experiment.
+: Contributed to the best results (ranked 1st) in modeling structures of protein complexes in CASP12-CAPRI experiment.
 Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2016**
