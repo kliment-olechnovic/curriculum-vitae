@@ -221,7 +221,7 @@ CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CA
 are world-wide experiments focused on the blind testing of methods for protein structural bioinformatics.
 
 **2019**
-: Contributed to top results (ranked 3rd) in modeling structures of protein complexes in the CAPRI experiment rounds 38–45.
+: Contributed to one of the top performances (ranked 3rd) in modeling structures of protein complexes in the CAPRI experiment rounds 38–45.
 Group "Venclovas", members: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
 
 **2018**
@@ -229,7 +229,7 @@ Group "Venclovas", members: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
 Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2018**
-: Top results in EMA (estimation of model accuracy) in CASP13 experiment.
+: One of the top performances in EMA (estimation of model accuracy) in CASP13 experiment.
 Groups "VoroMQA-A" and "VoroMQA-B", members: Olechnovič K, Venclovas Č.
 
 **2016**
@@ -237,7 +237,7 @@ Groups "VoroMQA-A" and "VoroMQA-B", members: Olechnovič K, Venclovas Č.
 Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2016**
-: Top results in protein structure prediction in CASP12 experiment.
+: One of the top performances in protein structure prediction in CASP12 experiment.
 Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
 
 
