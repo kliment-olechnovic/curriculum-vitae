@@ -201,7 +201,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 * CASP11 konferencija, Meksika, Riviera Maya (2014)
 * ECCB, Prancūzija, Strasbūras (2014)
 * ISMB, Vokietija, Berlinas (2013)
-* SocBiN, Poland, Torunė (2013)
+* SocBiN, Lenkija, Torunė (2013)
 * CASP10 konferencija, Italija, Gaeta (2012)
 * ECCB, Šveicarija, Bazelis (2012)
 * SAGA, Lietuva, Vilnius (2011)
