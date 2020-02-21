@@ -1,4 +1,4 @@
-# Dr. Kliment Olechnovič — Curriculum Vitae
+# Dr. Kliment Olechnovič — gyvenimo aprašymas (CV)
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
