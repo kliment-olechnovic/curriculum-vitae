@@ -2,66 +2,66 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
-Updated on 2020-02-21.  
-Latest CV online:
+Atnaujinta 2020-02-21.  
+Nuoroda į CV anglų kalba:
 [kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
 
-## General information
+## Bendra informacija
 
-**Occupation**
-: Research Scientist at Vilnius University
+**Darbas**
+: Mokslo darbuotojas Vilniaus universitete
 
-**Email**
+**E-paštas**
 : <kliment.olechnovic@bti.vu.lt>
 
-**Address**
+**Adresas**
 : Saulėtekio 7, LT-10257 Vilnius
 
 
-## Main research interests
+## Pagrindiniai moksliniai interesai
 
-* Structural bioinformatics
-* Machine learning
-* Computational geometry
-* Parallel computing
+* Struktūrinė bioinformatika
+* Mašininis mokymasis
+* Skaičiuojamoji geometrija
+* Lygiagretieji skaičiavimai
 
 
-## Education
+## Išsilavinimas
 
 **2012–2017**
-: Ph.D. Computer Science, Vilnius University
+: Informatikos mokslų daktaras, Vilniaus universitetas
 
 **2010–2012**
-: M.S. Computer Science, Vilnius University (*Magna Cum Laude*)
+: Informatikos magistras (kompiuterinis modeliavimas), Vilniaus universitetas (*Magna Cum Laude*)
 
 **2005–2009**
-: B.S. Bioinformatics, Vilnius University
+: Informatikos bakalauras (bioinformatika), Vilniaus universitetas
 
 
-## Work experience
+## Darbo patirtis
 
-**2017–now**
-: Research Scientist (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+**2017–dabar**
+: Mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
 
 **2013–2017**
-: Junior Research Scientist (Vilnius University / Institute of Biotechnology)
+: Jaunesnysis mokslo darbuotojas (Vilniaus universitetas / Biotechnologijos institutas)
 
 **2010–2013**
-: Research Engineer (Vilnius University / Institute of Biotechnology)
+: Inžinierius tyrėjas (Vilniaus universitetas / Biotechnologijos institutas)
 
 **2009–2010**
-: Research Engineer (Institute of Biotechnology, Vilnius)
+: Laborantas (Biotechnologijos institutas, Vilnius)
 
 **2007–2008**
-: C++ software developer (4Team Corporation, Vilnius)
+: C++ programuotojas (4Team Corporation, Vilnius)
 
 
-## Publications
+## Publikacijos
 
 
-### Papers in peer-reviewed journals
+### Publikacijos žurnaluose, įtrauktuose į Clarivate Analytics Web of Science duomenų bazę
 
 1. [Template-based modeling of diverse protein interactions in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25845).  
 Dapkūnas J, Kairys V, **Olechnovič K**, Venclovas Č.  
@@ -148,7 +148,7 @@ Bioinformatics. 2011 Mar 1;27(5):723-4.
 [PMID:21186248](https://www.ncbi.nlm.nih.gov/pubmed/21186248).
 
 
-### Book chapters
+### Knygų skyriai
 
 * [Contact Area-Based Structural Analysis of Proteins and Their Complexes Using CAD-Score](https://doi.org/10.1007/978-1-0716-0270-6_6).  
 **Olechnovič K**, Venclovas Č.  
@@ -159,135 +159,135 @@ Kairys V, **Olechnovič K**, Raškevičius V, Matulis D.
 In: *Matulis D. (eds) Carbonic Anhydrase as Drug Target*. Springer, Cham. 2019.
 
 
-### Doctoral dissertation
+### Daktaro disertacija
 
 * [Methods for the analysis and assessment of the three-dimensional structures of proteins and nucleic acids: development and applications](https://epublications.vu.lt/object/elaba:22955146/).  
 **Olechnovič K**.  
-Doctoral dissertation, Vilnius University, 2017.
+Daktaro disertacija, Vilniaus universitetas, 2017.
 
 * [Baltymų ir nukleorūgščių erdvinių struktūrų analizės ir vertinimo metodai: kūrimas ir taikymas](https://epublications.vu.lt/object/elaba:22955391/).  
 **Olechnovič K**.  
-Doctoral dissertation summary in Lithuanian, Vilnius University, 2017.
+Daktaro disertacijos santrauka lietuvių kalba, Vilniaus universitetas, 2017.
 
 
-### Other publications
+### Kitos publikacijos
 
 * [Kompiuteriai padeda pažinti sudėtingą baltymų pasaulį](https://issuu.com/vu_lt/docs/spectrum26.2017/6).  
 Dapkūnas J, **Olechnovič K**.  
-Popular science article in *SPECTRUM*. 2017 1(26), ISSN 1822-0147.
+Straipsnis mokslo populiarinimo žurnale *SPECTRUM*. 2017 1(26), ISSN 1822-0147.
 
-* [Journal cover image based on the article *"VoroMQA: Assessment of protein structure quality using interatomic contact areas"*](https://doi.org/10.1002/prot.25129).  
+* [Žurnalo viršelis pagal straipsnį *"VoroMQA: Assessment of protein structure quality using interatomic contact areas"*](https://doi.org/10.1002/prot.25129).  
 **Olechnovič K**, Venclovas Č.  
-Cover Image for *Proteins*. 2019 Volume 85, Issue 6.  
+Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.  
 [doi:10.1002/prot.25129](https://doi.org/10.1002/prot.25129).
 
 
-## Presentations
+## Pranešimai konferencijose
 
-### Oral presentations at international conferences
+### Žodiniai pranešimai traptautinėse konferencijose
 
-* COINS, Lithuania, Vilnius (2019), *keynote presentation*
-* CASP13 meeting, Mexico, Riviera Maya (2018)
+* COINS, Lietuva, Vilnius (2019), *keynote*
+* CASP13 konferencija, Meksika, Riviera Maya (2018)
 * VitaScientia, Lithuania, Vilnius (2018)
-* CASP12 meeting, Italy, Gaeta (2016)
-* CASP10 meeting, Italy, Gaeta (2012)
+* CASP12 konferencija, Italija, Gaeta (2016)
+* CASP10 konferencija, Italija, Gaeta (2012)
 
-### Poster presentations at international conferences
+### Stendiniai pranešimai traptautinėse konferencijose
 
-* ISMB, Switzerland, Basel (2019)
-* CASP13 meeting, Mexico, Riviera Maya (2018)
-* CASP12 meeting, Italy, Gaeta (2016)
-* ECCB, Netherlands, Hague (2016)
-* CASP11 meeting, Mexico, Riviera Maya (2014)
-* ECCB, France, Strasbourg (2014)
-* ISMB, Germany, Berlin (2013)
-* SocBiN, Poland, Torun (2013)
-* CASP10 meeting, Italy, Gaeta (2012)
-* ECCB, Switzerland, Basel (2012)
-* SAGA, Lithuania, Vilnius (2011)
-* ISMB, Austria, Vienna (2011)
-* ECCB, Belgium, Ghent (2010)
-* VizBi, Germany, Heidelberg (2010)
+* ISMB, Šveicarija, Bazelis (2019)
+* CASP13 konferencija, Meksika, Riviera Maya (2018)
+* CASP12 konferencija, Italija, Gaeta (2016)
+* ECCB, Olandija, Haga (2016)
+* CASP11 konferencija, Meksika, Riviera Maya (2014)
+* ECCB, Prancūzija, Strasbūras (2014)
+* ISMB, Vokietija, Berlinas (2013)
+* SocBiN, Poland, Torunė (2013)
+* CASP10 konferencija, Italija, Gaeta (2012)
+* ECCB, Šveicarija, Bazelis (2012)
+* SAGA, Lietuva, Vilnius (2011)
+* ISMB, Austrija, Viena (2011)
+* ECCB, Belgija, Gentas (2010)
+* VizBi, Vokietija, Heidelbergas (2010)
 
-Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
-
-
-## Achievements and awards
+Nuoroda į stendinių pranešimų vaizdus: [kliment-olechnovic.github.io/curriculum-vitae/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
 
 
-### Achievements in CASP and CAPRI experiments
-
-CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions)
-are world-wide experiments focused on the blind testing of methods for protein structural bioinformatics.
-
-**2019**
-: Contributed to one of the top performances (ranked 3rd) in modeling structures of protein complexes in the CAPRI experiment rounds 38–45.
-Group "Venclovas", members: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
-
-**2018**
-: Contributed to the best results (ranked 1st) in modeling structures of protein complexes in CASP13 and CASP13-CAPRI experiments.
-Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
-
-**2018**
-: One of the top performances in EMA (estimation of model accuracy) in CASP13 experiment.
-Groups "VoroMQA-A" and "VoroMQA-B", members: Olechnovič K, Venclovas Č.
-
-**2016**
-: Contributed to the best results (ranked 1st) in modeling structures of protein complexes in CASP12-CAPRI experiment.
-Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
-
-**2016**
-: One of the top performances in protein structure prediction in CASP12 experiment.
-Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
+## Pasiekimai ir apdovanojimai
 
 
-### National awards
+### Pasiekimai CASP and CAPRI eksperimentuose
+
+CASP (Critical Assessment of Techniques for Protein Structure Prediction) ir CAPRI (Critical Assessment of PRedicted Interactions)
+yra tarptautiniai eksperimentai skirti baltymų struktūrinės bioinformatikos metodams aklai testuoti.
 
 **2019**
-: Lithuanian Academy of Sciences scholarship for young scientists
+: Prisidėjęs prie vienų iš aukščiausių rezultatų CAPRI eksperimento 38–45 etapose.
+Grupė "Venclovas", nariai: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
 
 **2018**
-: Laureate of the "Best doctoral dissertation of 2017 in Lithuania" contest
+: Prisidėjęs prie aukščiausių rezultatų CASP-CAPRI eksperimente ir CASP13 eksperimento oligomerinių struktūrų modeliavimo kategorijoje.
+Grupė "Venclovas", nariai: Dapkūnas J, Olechnovič K, Venclovas Č.
+
+**2018**
+: Pasiekti vieni iš aukščiausių rezultatų CASP13 eksperimento struktūrų kokybės vertinimo kategorijoje.
+Grupės "VoroMQA-A" ir "VoroMQA-B", nariai: Olechnovič K, Venclovas Č.
+
+**2016**
+: Prisidėjęs prie aukščiausių rezultatų CASP-CAPRI eksperimente.
+Grupė "Venclovas", nariai: Dapkūnas J, Olechnovič K, Venclovas Č.
+
+**2016**
+: Pasiekti vieni iš aukščiausių rezultatų CASP12 eksperimento monomerinių struktūrų modeliavimo kategorijoje.
+Grupė "VoroMQA-select", nariai: Olechnovič K, Venclovas Č.
+
+
+### Nacionaliniai apdovanojimai
+
+**2019**
+: Lietuvos Mokslų Akademijos jaunųjų mokslininkų stipendija
+
+**2018**
+: Konkurso "Geriausia daktaro disertacija Lietuvoje 2017 metais" laurėatas
 
 **2015**
-: Lithuanian Academy of Sciences award for the best works by young researchers in 2014
+: Lietuvos Mokslų Akademijos apdovanojimas už geriausius jaunųjų mokslininkų darbus 2014 metais
 
 **2013–2014**
-: The Research Council of Lithuania scholarship for PhD students actively conducting scientific research
+: Lietuvos Mokslo Tarybos stipendiją doktorantams už aktyvią mokslinę veiklą
 
 **2013**
-: INFOBALT incentive scholarship for young scientists
+: INFOBALT skatinamoji stipendija jauniesiems mokslininkams
 
 
-### Conference awards
+### Konferencijų apdovanojimai
 
 **2019**
-: ISCB Art in Science Award Winner at "ISMB/ECCB 2019".
-Work title: "Disassembled tessellation".
+: Konkurso "ISCB Art in Science" nugalėtojas konferencijoje "ISMB/ECCB 2019".
+Kūrinio pavadinimas: "Disassembled tessellation".
 
 **2016**
-: Poster selected for an oral presentation at "12th Community Wide Experiment on the Critical Assessment of Techniques for Protein Structure Prediction (CASP12 meeting)".
-Poster title: *VoroMQA: assessment of protein structure quality using interatomic contact areas derived from the Voronoi tessellation of atomic balls*.
+: Geriausias stendinis pranešimas konferencijoje "12th Community Wide Experiment on the Critical Assessment of Techniques for Protein Structure Prediction (CASP12 meeting)".
+Pranešimo pavadinimas: *VoroMQA: assessment of protein structure quality using interatomic contact areas derived from the Voronoi tessellation of atomic balls*.
 
 **2013**
-: Best poster award at "Society for Bioinformatics in Northern European countries (SocBiN)".
-Poster title: *The use of interatomic contact areas for the assessment of RNA 3D structural models*.
+: Geriausias stendinis pranešimas konferencijoje "Society for Bioinformatics in Northern European countries (SocBiN)".
+Pranešimo pavadinimas: *The use of interatomic contact areas for the assessment of RNA 3D structural models*.
 
 **2012**
-: Poster selected for an oral presentation at "EMBO Conference on Critical Assessment of Protein Structure Prediction (CASP10 meeting)".
-Poster title: *CAD-score: a new method for the evaluation of protein structural models*.
+: Geriausias stendinis pranešimas konferencijoje "EMBO Conference on Critical Assessment of Protein Structure Prediction (CASP10 meeting)".
+Pranešimo pavadinimas: *CAD-score: a new method for the evaluation of protein structural models*.
 
 
-### Other achievements
-
-**2018**
-: Judo champion of Lithuania, judo black belt.
+### Kiti pasiekimai
 
 **2018**
-: Sambo champion of Lithuania.
+: Lietuvos dziudo imtynių čempionas, dziudo juodas diržas.
+
+**2018**
+: Lietuvos sambo imtynių čempionas.
 
 
-## Online profiles
+## Nuorodos į publikacijų ir sukurtos programinės įrangos profilius:
 
 **Google Scholar**
 : <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
@@ -301,9 +301,3 @@ Poster title: *CAD-score: a new method for the evaluation of protein structural 
 **Bitbucket**
 : <https://bitbucket.org/kliment>
 
-
-## Languages
-
-* **English** (full professional proficiency)
-* **Lithuanian** (native/bilingual proficiency)
-* **Russian** (native/bilingual proficiency)
