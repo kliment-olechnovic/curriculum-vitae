@@ -221,7 +221,7 @@ CASP (Critical Assessment of Techniques for Protein Structure Prediction) ir CAP
 yra tarptautiniai eksperimentai skirti baltymų struktūrinės bioinformatikos metodams aklai testuoti.
 
 **2019**
-: Prisidėjęs prie vienų iš aukščiausių rezultatų CAPRI eksperimento 38–45 etapose.
+: Prisidėjęs prie vienų iš aukščiausių rezultatų CAPRI eksperimento 38–45 etapuose.
 Grupė "Venclovas", nariai: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
 
 **2018**
