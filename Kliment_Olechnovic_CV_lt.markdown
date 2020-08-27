@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
-Atnaujinta 2020-05-26.  
+Atnaujinta 2020-08-27.  
 Nuoroda į CV anglų kalba:
 [kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -41,6 +41,9 @@ Nuoroda į CV anglų kalba:
 
 
 ## Darbo patirtis
+
+**2020–dabar**
+: Vyresnysis mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
 
 **2017–dabar**
 : Mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
@@ -143,9 +146,17 @@ Dapkūnas J, Timinskas A, **Olechnovič K**, Margelevičius M, Diciunas R, Vencl
 
 1. [Voroprot: an interactive tool for the analysis and visualization of complex geometric features of protein structure](https://doi.org/10.1093/bioinformatics/btq720).  
 **Olechnovič K**, Margelevičius M, Venclovas Č.  
-Bioinformatics. 2011 Mar 1;27(5):723-4.  
+*Bioinformatics*. 2011 Mar 1;27(5):723-4.  
 [doi:10.1093/bioinformatics/btq720](https://doi.org/10.1093/bioinformatics/btq720).  
 [PMID:21186248](https://www.ncbi.nlm.nih.gov/pubmed/21186248).
+
+
+### Preprintai
+
+* [VoroCNN: Deep convolutional neural network built on 3D Voronoi tessellation of protein structures](https://doi.org/10.1101/2020.04.27.063586).  
+Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.  
+*bioRxiv*. 2020 Apr 29.  
+[doi:10.1101/2020.04.27.063586](https://doi.org/10.1101/2020.04.27.063586).
 
 
 ### Knygų skyriai
