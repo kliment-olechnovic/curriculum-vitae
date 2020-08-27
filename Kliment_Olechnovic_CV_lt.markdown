@@ -11,7 +11,7 @@ Nuoroda į CV anglų kalba:
 ## Bendra informacija
 
 **Darbas**
-: Mokslo darbuotojas Vilniaus universitete
+: Vyresnysis mokslo darbuotojas Vilniaus universitete
 
 **E-paštas**
 : <kliment.olechnovic@bti.vu.lt>

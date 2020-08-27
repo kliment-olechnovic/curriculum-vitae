@@ -11,7 +11,7 @@ Latest CV online:
 ## General information
 
 **Occupation**
-: Research Scientist at Vilnius University
+: Senior Research Scientist at Vilnius University
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
