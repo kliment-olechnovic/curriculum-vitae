@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
-Updated on 2020-08-28.  
+Updated on 2020-12-18.  
 Latest CV online:
 [kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -25,7 +25,6 @@ Latest CV online:
 * Structural bioinformatics
 * Machine learning
 * Computational geometry
-* Parallel computing
 
 
 ## Education
@@ -231,8 +230,8 @@ Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](ht
 * VoroMQA web server for the assessment of protein structure quality using interatomic contact areas.  
 [bioinformatics.ibt.lt/wtsam/voromqa](http://bioinformatics.ibt.lt/wtsam/voromqa)
 
-* VContacts web server for the computation and interactive querying of Voronoi tessellation-derived contacts.  
-[bioinformatics.ibt.lt/wtsam/vcontacts](http://bioinformatics.ibt.lt/wtsam/vcontacts/submit)
+* VoroContacts web server for the computation and interactive querying of Voronoi tessellation-derived contacts.  
+[bioinformatics.ibt.lt/wtsam/vorocontacts](http://bioinformatics.ibt.lt/wtsam/vorocontacts/submit)
 
 * CAD-score web server for contact area-based comparison of structures and interfaces of proteins, nucleic acids and their complexes.  
 [bioinformatics.ibt.lt/cad-score/](http://bioinformatics.ibt.lt/cad-score)
@@ -248,6 +247,10 @@ Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](ht
 
 CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions)
 are world-wide experiments focused on the blind testing of methods for protein structural bioinformatics.
+
+**2020**
+: Contributed to one of the top performances (ranked 2nd) in modeling structures of protein complexes in CASP14 and CASP14-CAPRI experiments.
+Group "Venclovas", members: Olechnovič K, Dapkūnas J, Venclovas Č.
 
 **2019**
 : Contributed to one of the top performances (ranked 3rd) in modeling structures of protein complexes in the CAPRI experiment rounds 38–45.
@@ -326,9 +329,6 @@ Poster title: *CAD-score: a new method for the evaluation of protein structural 
 
 **GitHub**
 : <https://github.com/kliment-olechnovic>
-
-**Bitbucket**
-: <https://bitbucket.org/kliment>
 
 
 ## Languages

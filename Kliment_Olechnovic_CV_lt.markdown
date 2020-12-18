@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
-Atnaujinta 2020-08-28.  
+Atnaujinta 2020-12-18.  
 Nuoroda į CV anglų kalba:
 [kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -25,7 +25,6 @@ Nuoroda į CV anglų kalba:
 * Struktūrinė bioinformatika
 * Mašininis mokymasis
 * Skaičiuojamoji geometrija
-* Lygiagretieji skaičiavimai
 
 
 ## Išsilavinimas
@@ -231,6 +230,10 @@ Nuoroda į stendinių pranešimų vaizdus: [kliment-olechnovic.github.io/curricu
 CASP (Critical Assessment of Techniques for Protein Structure Prediction) ir CAPRI (Critical Assessment of PRedicted Interactions)
 yra tarptautiniai eksperimentai skirti baltymų struktūrinės bioinformatikos metodams aklai testuoti.
 
+**2020**
+: Prisidėjęs prie vienų iš aukščiausių rezultatų CASP-CAPRI eksperimente ir CASP14 eksperimento oligomerinių struktūrų modeliavimo kategorijoje.
+Grupė "Venclovas", nariai: Olechnovič K, Dapkūnas J, Venclovas Č.
+
 **2019**
 : Prisidėjęs prie vienų iš aukščiausių rezultatų CAPRI eksperimento 38–45 etapuose.
 Grupė "Venclovas", nariai: Dapkūnas J, Kairys V, Olechnovič K, Venclovas Č.
@@ -308,7 +311,4 @@ Pranešimo pavadinimas: *CAD-score: a new method for the evaluation of protein s
 
 **GitHub**
 : <https://github.com/kliment-olechnovic>
-
-**Bitbucket**
-: <https://bitbucket.org/kliment>
 
