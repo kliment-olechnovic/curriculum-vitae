@@ -196,6 +196,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
+* CASP14 meeting, Virtual (2020)
 * COINS, Lithuania, Vilnius (2019), *keynote presentation*
 * CASP13 meeting, Mexico, Riviera Maya (2018)
 * VitaScientia, Lithuania, Vilnius (2018)
@@ -204,6 +205,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
+* CASP14 meeting, Virtual (2020)
 * ISMB, Switzerland, Basel (2019)
 * CASP13 meeting, Mexico, Riviera Maya (2018)
 * CASP12 meeting, Italy, Gaeta (2016)

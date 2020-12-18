@@ -196,6 +196,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* CASP14 konferencija, Virtuali (2020)
 * COINS, Lietuva, Vilnius (2019), *keynote*
 * CASP13 konferencija, Meksika, Riviera Maya (2018)
 * VitaScientia, Lithuania, Vilnius (2018)
@@ -204,6 +205,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Stendiniai pranešimai traptautinėse konferencijose
 
+* CASP14 konferencija, Virtuali (2020)
 * ISMB, Šveicarija, Bazelis (2019)
 * CASP13 konferencija, Meksika, Riviera Maya (2018)
 * CASP12 konferencija, Italija, Gaeta (2016)
