@@ -1,6 +1,6 @@
 # Dr. Kliment Olechnovič
 
-<img style="width:200px;float:right;" src="photo.jpg">
+<img style="width:200px;float:right;" src="photo_alt.jpg">
 
 Updated on 2021-03-15.  
 Latest CV online:
