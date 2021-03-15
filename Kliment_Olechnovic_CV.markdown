@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
-Updated on 2020-12-18.  
+Updated on 2021-03-15.  
 Latest CV online:
 [kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -11,7 +11,7 @@ Latest CV online:
 ## General information
 
 **Occupation**
-: Senior Research Scientist at Vilnius University
+: Senior Research Fellow at Vilnius University
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
@@ -42,13 +42,13 @@ Latest CV online:
 ## Work experience
 
 **2020–now**
-: Senior Research Scientist (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+: Senior Research Fellow (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2017–2020**
-: Research Scientist (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+: Research Fellow (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2013–2017**
-: Junior Research Scientist (Vilnius University / Institute of Biotechnology)
+: Junior Research Fellow (Vilnius University / Institute of Biotechnology)
 
 **2010–2013**
 : Research Engineer (Vilnius University / Institute of Biotechnology)
@@ -64,6 +64,12 @@ Latest CV online:
 
 
 ### Papers in peer-reviewed journals
+
+1. [VoroCNN: Deep convolutional neural network built on 3D Voronoi tessellation of protein structures](https://doi.org/10.1093/bioinformatics/btab118).  
+Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.  
+*Bioinformatics*. 2021 Feb 23.  
+[doi:10.1093/bioinformatics/btab118](https://doi.org/10.1093/bioinformatics/btab118).  
+[PMID:33620450](https://pubmed.ncbi.nlm.nih.gov/33620450).
 
 1. [Template-based modeling of diverse protein interactions in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25845).  
 Dapkūnas J, Kairys V, **Olechnovič K**, Venclovas Č.  
@@ -148,14 +154,6 @@ Dapkūnas J, Timinskas A, **Olechnovič K**, Margelevičius M, Diciunas R, Vencl
 *Bioinformatics*. 2011 Mar 1;27(5):723-4.  
 [doi:10.1093/bioinformatics/btq720](https://doi.org/10.1093/bioinformatics/btq720).  
 [PMID:21186248](https://www.ncbi.nlm.nih.gov/pubmed/21186248).
-
-
-### Preprints
-
-* [VoroCNN: Deep convolutional neural network built on 3D Voronoi tessellation of protein structures](https://doi.org/10.1101/2020.04.27.063586).  
-Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.  
-*bioRxiv*. 2020 Apr 29.  
-[doi:10.1101/2020.04.27.063586](https://doi.org/10.1101/2020.04.27.063586).
 
 
 ### Book chapters
