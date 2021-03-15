@@ -1,4 +1,4 @@
-# Dr. Kliment Olechnovič — Curriculum Vitae
+# Dr. Kliment Olechnovič
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
@@ -11,16 +11,23 @@ Latest CV online:
 ## General information
 
 **Occupation**
-: Senior Research Fellow at Vilnius University
+: Senior Research Fellow at Vilnius University Life Sciences Center
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
 
-**Address**
-: Saulėtekio 7, LT-10257 Vilnius
+### Online profiles
 
+**Google Scholar**
+: <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
 
-## Main research interests
+**ORCID**
+: <https://orcid.org/0000-0003-4918-9505>
+
+**GitHub**
+: <https://github.com/kliment-olechnovic>
+
+### Main research interests
 
 * Structural bioinformatics
 * Machine learning
@@ -319,20 +326,3 @@ Poster title: *CAD-score: a new method for the evaluation of protein structural 
 : Sambo champion of Lithuania.
 
 
-## Online profiles
-
-**Google Scholar**
-: <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
-
-**ORCID**
-: <https://orcid.org/0000-0003-4918-9505>
-
-**GitHub**
-: <https://github.com/kliment-olechnovic>
-
-
-## Languages
-
-* **English** (full professional proficiency)
-* **Lithuanian** (native/bilingual proficiency)
-* **Russian** (native/bilingual proficiency)

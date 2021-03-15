@@ -1,4 +1,4 @@
-# Dr. Kliment Olechnovič — gyvenimo aprašymas (CV)
+# Dr. Kliment Olechnovič
 
 <img style="width:200px;float:right;" src="photo.jpg">
 
@@ -11,16 +11,25 @@ Nuoroda į CV anglų kalba:
 ## Bendra informacija
 
 **Darbas**
-: Vyresnysis mokslo darbuotojas Vilniaus universitete
+: Vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre
 
 **E-paštas**
 : <kliment.olechnovic@bti.vu.lt>
 
-**Adresas**
-: Saulėtekio 7, LT-10257 Vilnius
+
+### Nuorodos į publikacijų ir sukurtos programinės įrangos profilius:
+
+**Google Scholar**
+: <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
+
+**ORCID**
+: <https://orcid.org/0000-0003-4918-9505>
+
+**GitHub**
+: <https://github.com/kliment-olechnovic>
 
 
-## Pagrindiniai moksliniai interesai
+### Pagrindiniai moksliniai interesai
 
 * Struktūrinė bioinformatika
 * Mašininis mokymasis
@@ -300,15 +309,4 @@ Pranešimo pavadinimas: *CAD-score: a new method for the evaluation of protein s
 **2018**
 : Lietuvos sambo imtynių čempionas.
 
-
-## Nuorodos į publikacijų ir sukurtos programinės įrangos profilius:
-
-**Google Scholar**
-: <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
-
-**ORCID**
-: <https://orcid.org/0000-0003-4918-9505>
-
-**GitHub**
-: <https://github.com/kliment-olechnovic>
 
