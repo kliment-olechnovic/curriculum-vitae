@@ -82,7 +82,7 @@ Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.
 
 1. [Template-based modeling of diverse protein interactions in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25845).  
 Dapkūnas J, Kairys V, **Olechnovič K**, Venclovas Č.  
-*Proteins*. 2019 Nov 7.  
+*Proteins*. 2020 Aug;88(8):939-947.  
 [doi:10.1002/prot.25845](https://doi.org/10.1002/prot.25845).  
 [PMID:31697420](https://www.ncbi.nlm.nih.gov/pubmed/31697420).
 
