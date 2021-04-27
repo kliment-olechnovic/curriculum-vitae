@@ -232,7 +232,7 @@ Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](ht
 ## Main published software
 
 * Voronota: a standalone software package of various tools for analyzing three-dimensional structures of biological macromolecules using the Voronoi diagram of atomic balls (includes the latest versions of CAD-score and VoroMQA methods).  
-[kliment-olechnovic.github.io/voronota](https://kliment-olechnovic.github.io/voronota/)
+[https://kliment-olechnovic.github.io/voronota](https://kliment-olechnovic.github.io/voronota/)
 
 * VoroMQA web server for the assessment of protein structure quality using interatomic contact areas.  
 [https://bioinformatics.lt/wtsam/voromqa](https://bioinformatics.lt/wtsam/voromqa)
