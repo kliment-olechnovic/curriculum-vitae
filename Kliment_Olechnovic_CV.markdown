@@ -4,7 +4,7 @@
 
 Updated on 2021-03-15.  
 Latest CV online:
-[kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
+[https://kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
 
@@ -235,16 +235,16 @@ Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](ht
 [kliment-olechnovic.github.io/voronota](https://kliment-olechnovic.github.io/voronota/)
 
 * VoroMQA web server for the assessment of protein structure quality using interatomic contact areas.  
-[bioinformatics.ibt.lt/wtsam/voromqa](http://bioinformatics.ibt.lt/wtsam/voromqa)
+[https://bioinformatics.lt/wtsam/voromqa](https://bioinformatics.lt/wtsam/voromqa)
 
 * VoroContacts web server for the computation and interactive querying of Voronoi tessellation-derived contacts.  
-[bioinformatics.ibt.lt/wtsam/vorocontacts](http://bioinformatics.ibt.lt/wtsam/vorocontacts/submit)
+[https://bioinformatics.lt/wtsam/vorocontacts](https://bioinformatics.lt/wtsam/vorocontacts/submit)
 
 * CAD-score web server for contact area-based comparison of structures and interfaces of proteins, nucleic acids and their complexes.  
-[bioinformatics.ibt.lt/cad-score/](http://bioinformatics.ibt.lt/cad-score)
+[https://bioinformatics.lt/cad-score/](https://bioinformatics.lt/cad-score)
 
 * Voroprot: an interactive tool for exploring some tesselation-derived features of protein structures (no longer maintained).  
-[bioinformatics.lt/software/voroprot](http://bioinformatics.lt/software/voroprot)
+[https://bioinformatics.lt/software/voroprot](https://bioinformatics.lt/software/voroprot)
 
 
 ## Achievements and awards
