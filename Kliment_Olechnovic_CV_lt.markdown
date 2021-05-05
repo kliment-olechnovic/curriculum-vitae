@@ -2,9 +2,9 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2021-03-15.  
+Atnaujinta 2021-05-05.  
 Nuoroda į CV anglų kalba:
-[https://kliment-olechnovic.github.io/curriculum-vitae](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
+[https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
 
@@ -72,7 +72,12 @@ Nuoroda į CV anglų kalba:
 ## Publikacijos
 
 
-### Publikacijos žurnaluose, įtrauktuose į Clarivate Analytics Web of Science duomenų bazę
+### Publikacijos recenzuojamuose žurnaluose
+
+1. [Modeling of protein complexes in CASP14 with emphasis on the interaction interface prediction](https://doi.org/10.22541/au.162006947.72485821/v1).  
+Dapkūnas J, **Olechnovič K**, Venclovas Č.  
+Submitted to *Proteins*. 2021 May 1.  
+[https://doi.org/10.22541/au.162006947.72485821/v1](https://doi.org/10.22541/au.162006947.72485821/v1).
 
 1. [VoroCNN: Deep convolutional neural network built on 3D Voronoi tessellation of protein structures](https://doi.org/10.1093/bioinformatics/btab118).  
 Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.  
