@@ -217,6 +217,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Stendiniai pranešimai traptautinėse konferencijose
 
+* PDB50, Virtuali (2021)
 * CASP14 konferencija, Virtuali (2020)
 * ISMB, Šveicarija, Bazelis (2019)
 * CASP13 konferencija, Meksika, Riviera Maya (2018)
