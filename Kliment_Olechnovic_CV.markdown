@@ -219,24 +219,24 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
-* PDB50, Virtual (2021)
-* CASP14 meeting, Virtual (2020)
-* ISMB, Switzerland, Basel (2019)
-* CASP13 meeting, Mexico, Riviera Maya (2018)
-* CASP12 meeting, Italy, Gaeta (2016)
-* ECCB, Netherlands, Hague (2016)
-* CASP11 meeting, Mexico, Riviera Maya (2014)
-* ECCB, France, Strasbourg (2014)
-* ISMB, Germany, Berlin (2013)
-* SocBiN, Poland, Torun (2013)
-* CASP10 meeting, Italy, Gaeta (2012)
-* ECCB, Switzerland, Basel (2012)
-* SAGA, Lithuania, Vilnius (2011)
-* ISMB, Austria, Vienna (2011)
-* ECCB, Belgium, Ghent (2010)
-* VizBi, Germany, Heidelberg (2010)
+* PDB50, Virtual (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/PDB50_2021.png)
+* CASP14 meeting, Virtual (2020), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2020.png)
+* ISMB, Switzerland, Basel (2019), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ISMB_2019.png)
+* CASP13 meeting, Mexico, Riviera Maya (2018), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2018.png)
+* CASP12 meeting, Italy, Gaeta (2016), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2016.png)
+* ECCB, Netherlands, Hague (2016), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ECCB_2016.png)
+* CASP11 meeting, Mexico, Riviera Maya (2014), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2014.png)
+* ECCB, France, Strasbourg (2014), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ECCB_2014.png)
+* ISMB, Germany, Berlin (2013), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ISMB_2013.png)
+* SocBiN, Poland, Torun (2013), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/SocBiN_2013.png)
+* CASP10 meeting, Italy, Gaeta (2012), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2012.png)
+* ECCB, Switzerland, Basel (2012), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ECCB_2012.png)
+* SAGA, Lithuania, Vilnius (2011), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/SAGA_2011.png)
+* ISMB, Austria, Vienna (2011), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ISMB_2011.png)
+* ECCB, Belgium, Ghent (2010), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ECCB_2010.png)
+* VizBi, Germany, Heidelberg (2010), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/VizBi_2010.png)
 
-Poster images online: [kliment-olechnovic.github.io/curriculum-vitae/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
+Galley of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
 
 
 ## Main published software

@@ -237,7 +237,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 * ECCB, Belgija, Gentas (2010)
 * VizBi, Vokietija, Heidelbergas (2010)
 
-Nuoroda į stendinių pranešimų vaizdus: [kliment-olechnovic.github.io/curriculum-vitae/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
+Nuoroda į stendinių pranešimų vaizdus: [www.kliment.lt/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
 
 
 ## Pasiekimai ir apdovanojimai
