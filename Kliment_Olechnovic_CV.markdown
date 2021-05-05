@@ -72,11 +72,6 @@ Latest CV online:
 
 ### Papers in peer-reviewed journals
 
-1. [Modeling of protein complexes in CASP14 with emphasis on the interaction interface prediction](https://doi.org/10.22541/au.162006947.72485821/v1).  
-Dapkūnas J, **Olechnovič K**, Venclovas Č.  
-Submitted to *Proteins*. 2021 May 1.  
-[https://doi.org/10.22541/au.162006947.72485821/v1](https://doi.org/10.22541/au.162006947.72485821/v1).
-
 1. [VoroCNN: Deep convolutional neural network built on 3D Voronoi tessellation of protein structures](https://doi.org/10.1093/bioinformatics/btab118).  
 Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.  
 *Bioinformatics*. 2021 Feb 23.  
@@ -167,6 +162,14 @@ Dapkūnas J, Timinskas A, **Olechnovič K**, Margelevičius M, Diciunas R, Vencl
 *Bioinformatics*. 2011 Mar 1;27(5):723-4.  
 [doi:10.1093/bioinformatics/btq720](https://doi.org/10.1093/bioinformatics/btq720).  
 [PMID:21186248](https://www.ncbi.nlm.nih.gov/pubmed/21186248).
+
+
+### Preprints
+
+* [Modeling of protein complexes in CASP14 with emphasis on the interaction interface prediction](https://doi.org/10.22541/au.162006947.72485821/v1).  
+Dapkūnas J, **Olechnovič K**, Venclovas Č.  
+Submitted to *Proteins*. 2021 May 1.  
+[https://doi.org/10.22541/au.162006947.72485821/v1](https://doi.org/10.22541/au.162006947.72485821/v1).
 
 
 ### Book chapters
