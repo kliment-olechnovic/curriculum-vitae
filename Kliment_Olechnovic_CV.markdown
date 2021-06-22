@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Updated on 2021-05-05.  
+Updated on 2021-06-22.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -71,6 +71,12 @@ Latest CV online:
 
 
 ### Papers in peer-reviewed journals
+
+1. [VoroContacts: a tool for the analysis of interatomic contacts in macromolecular structures](https://doi.org/10.1093/bioinformatics/btab448).  
+**Olechnovič K**, Venclovas Č.  
+*Bioinformatics*. 2021 Jun 16.  
+[doi:10.1093/bioinformatics/btab448](https://doi.org/10.1093/bioinformatics/btab448).  
+[PMID:34132767](https://pubmed.ncbi.nlm.nih.gov/34132767).
 
 1. [VoroCNN: Deep convolutional neural network built on 3D Voronoi tessellation of protein structures](https://doi.org/10.1093/bioinformatics/btab118).  
 Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.  
