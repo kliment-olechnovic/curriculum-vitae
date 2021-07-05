@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2021-06-22.  
+Atnaujinta 2021-07-05.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -74,9 +74,16 @@ Nuoroda į CV anglų kalba:
 
 ### Publikacijos recenzuojamuose žurnaluose
 
+1. [Modeling of protein complexes in CASP14 with emphasis on the interaction interface prediction](https://doi.org/10.1002/prot.26167).  
+Dapkūnas J, **Olechnovič K**, Venclovas Č.  
+*Proteins*. 2021 Jun 27.  
+[doi:10.1002/prot.26167](https://doi.org/10.1002/prot.26167).  
+[PMID:34176161](https://pubmed.ncbi.nlm.nih.gov/34176161/).
+
 1. [VoroContacts: a tool for the analysis of interatomic contacts in macromolecular structures](https://doi.org/10.1093/bioinformatics/btab448).  
 **Olechnovič K**, Venclovas Č.  
-*Bioinformatics*. 2021 Jun 16.  
+*Bioinformatics*. 2021 Jun 16.
+[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btab448/38660285/btab448.pdf?guestAccessKey=ea40f0bc-eb2b-44c7-bc9b-6ffc53fac8f4).  
 [doi:10.1093/bioinformatics/btab448](https://doi.org/10.1093/bioinformatics/btab448).  
 [PMID:34132767](https://pubmed.ncbi.nlm.nih.gov/34132767).
 
@@ -169,14 +176,6 @@ Dapkūnas J, Timinskas A, **Olechnovič K**, Margelevičius M, Diciunas R, Vencl
 *Bioinformatics*. 2011 Mar 1;27(5):723-4.  
 [doi:10.1093/bioinformatics/btq720](https://doi.org/10.1093/bioinformatics/btq720).  
 [PMID:21186248](https://www.ncbi.nlm.nih.gov/pubmed/21186248).
-
-
-### Preprintai
-
-* [Modeling of protein complexes in CASP14 with emphasis on the interaction interface prediction](https://doi.org/10.22541/au.162006947.72485821/v1).  
-Dapkūnas J, **Olechnovič K**, Venclovas Č.  
-Submitted to *Proteins*. 2021 May 1.  
-[https://doi.org/10.22541/au.162006947.72485821/v1](https://doi.org/10.22541/au.162006947.72485821/v1).
 
 
 ### Knygų skyriai
