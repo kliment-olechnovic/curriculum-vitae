@@ -241,7 +241,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 * ECCB, Belgium, Ghent (2010), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ECCB_2010.png)
 * VizBi, Germany, Heidelberg (2010), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/VizBi_2010.png)
 
-Galley of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
+Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
 
 
 ## Main published software
