@@ -11,7 +11,7 @@ Latest CV online:
 ## General information
 
 **Occupation**
-: Senior Research Fellow at Vilnius University Life Sciences Center
+: Senior Researcher at Vilnius University Life Sciences Center
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
@@ -49,13 +49,13 @@ Latest CV online:
 ## Work experience
 
 **2020–now**
-: Senior Research Fellow (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+: Senior Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2017–2020**
-: Research Fellow (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+: Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2013–2017**
-: Junior Research Fellow (Vilnius University / Institute of Biotechnology)
+: Junior Researcher (Vilnius University / Institute of Biotechnology)
 
 **2010–2013**
 : Research Engineer (Vilnius University / Institute of Biotechnology)
