@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2021-07-05.  
+Atnaujinta 2021-08-19.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -216,6 +216,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* AI at CIRM, Prancūzija, Marselis (2021)
 * CASP14 konferencija, Virtuali (2020)
 * COINS, Lietuva, Vilnius (2019), *keynote*
 * CASP13 konferencija, Meksika, Riviera Maya (2018)
@@ -225,6 +226,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Stendiniai pranešimai traptautinėse konferencijose
 
+* AI at CIRM, Prancūzija, Marselis (2021)
 * PDB50, Virtuali (2021)
 * CASP14 konferencija, Virtuali (2020)
 * ISMB, Šveicarija, Bazelis (2019)

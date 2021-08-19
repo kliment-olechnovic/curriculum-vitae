@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Updated on 2021-07-05.  
+Updated on 2021-08-19.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -215,6 +215,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
+* AI at CIRM, France, Marseille (2021)
 * CASP14 meeting, Virtual (2020)
 * COINS, Lithuania, Vilnius (2019), *keynote presentation*
 * CASP13 meeting, Mexico, Riviera Maya (2018)
@@ -224,6 +225,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
+* AI at CIRM, France, Marseille (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/AIatCIRM_2021.png)
 * PDB50, Virtual (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/PDB50_2021.png)
 * CASP14 meeting, Virtual (2020), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2020.png)
 * ISMB, Switzerland, Basel (2019), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ISMB_2019.png)
