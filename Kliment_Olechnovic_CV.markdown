@@ -319,7 +319,7 @@ Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
 
 **2019**
 : ISCB Art in Science Award Winner at "ISMB/ECCB 2019".
-Work title: "Disassembled tessellation".
+Work title: ["Disassembled tessellation"](https://kliment-olechnovic.github.io/curriculum-vitae/posters/disassembled_tessellation.jpg).
 
 **2016**
 : Poster selected for an oral presentation at "12th Community Wide Experiment on the Critical Assessment of Techniques for Protein Structure Prediction (CASP12 meeting)".

@@ -302,7 +302,7 @@ Grupė "VoroMQA-select", nariai: Olechnovič K, Venclovas Č.
 
 **2019**
 : Konkurso "ISCB Art in Science" nugalėtojas konferencijoje "ISMB/ECCB 2019".
-Kūrinio pavadinimas: "Disassembled tessellation".
+Kūrinio pavadinimas: ["Disassembled tessellation"](https://kliment-olechnovic.github.io/curriculum-vitae/posters/disassembled_tessellation.jpg).
 
 **2016**
 : Geriausias stendinis pranešimas konferencijoje "12th Community Wide Experiment on the Critical Assessment of Techniques for Protein Structure Prediction (CASP12 meeting)".
