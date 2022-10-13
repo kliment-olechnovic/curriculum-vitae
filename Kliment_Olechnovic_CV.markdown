@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Updated on 2021-09-04.  
+Updated on 2022-07-01.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -51,8 +51,14 @@ Latest CV online:
 **2020–now**
 : Senior Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
+**2021–2022**
+: Visiting researcher, for 21 weeks (CNRS Jean Kuntzmann Laboratory, Grenoble, France)
+
 **2017–2020**
 : Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+
+**2019–2020**
+: Visiting researcher, for 9 weeks (Inria, Grenoble, France)
 
 **2013–2017**
 : Junior Researcher (Vilnius University / Institute of Biotechnology)

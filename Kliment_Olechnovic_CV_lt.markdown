@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2021-09-04.  
+Atnaujinta 2022-07-01.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -53,8 +53,14 @@ Nuoroda į CV anglų kalba:
 **2020–dabar**
 : Vyresnysis mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
 
-**2017–dabar**
+**2021–2022**
+: Vizituojantis mokslininkas, 21 savaitė (CNRS Jean Kuntzmann Laboratory, Grenoblis, Prancūzija)
+
+**2017–2020**
 : Mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
+
+**2019–2020**
+: Vizituojantis mokslininkas, 9 savaitės (Inria, Grenoblis, Prancūzija)
 
 **2013–2017**
 : Jaunesnysis mokslo darbuotojas (Vilniaus universitetas / Biotechnologijos institutas)
