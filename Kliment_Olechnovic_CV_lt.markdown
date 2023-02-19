@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2022-07-01.  
+Atnaujinta 2023-02-19.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -79,6 +79,11 @@ Nuoroda į CV anglų kalba:
 
 
 ### Publikacijos recenzuojamuose žurnaluose
+
+1. (preprint) [Discriminating Physiological from Non-Physiological Interfaces in Structures of Protein Complexes: A Community-Wide Study](https://doi.org/10.22541/au.167569565.51141128/v1).
+Schweke H, Xu Q, Tauriello G, Pantolini L, Schwede T, Cazals F, Lhéritier A, Fernandez-Recio J, Rodríguez-Lumbreras LÁ, Schueler-Furman O, Varga JK, Jiménez-García B, Réau MF, Bonvin A, Savojardo C, Martelli P-L, Casadio R, Tubiana J, Wolfson H, Oliva R, Barradas-Bautista D, Ricciardelli T, Cavallo L, Venclovas Č, **Olechnovič K**, Guerois R, Andreani J, Martin J, Wang X, Kihara D, Marchand A, Correia B, Zou X, Dey S, Dunbrack R, Levy E, Wodak S.  
+Preprint submitted to *Proteomics*. 2023.  
+[doi:10.22541/au.167569565.51141128/v1](https://doi.org/10.22541/au.167569565.51141128/v1).
 
 1. [Modeling SARS-CoV2 proteins in the CASP-commons experiment](https://doi.org/10.1002/prot.26231).  
 Kryshtafovych A, Moult A, Billings WM, Della Corte D, Fidelis K, Kwon S, **Olechnovič K**, Seok C, Venclovas Č, Won J, et al.  
@@ -234,6 +239,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* CASP15 konferencija, Turkija, Antalija (2022)
 * AI at CIRM, Prancūzija, Marselis (2021)
 * CASP14 konferencija, Virtuali (2020)
 * COINS, Lietuva, Vilnius (2019), *keynote*
@@ -244,6 +250,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Stendiniai pranešimai traptautinėse konferencijose
 
+* CASP15 konferencija, Turkija, Antalija (2022)
 * AI at CIRM, Prancūzija, Marselis (2021)
 * PDB50, Virtuali (2021)
 * CASP14 konferencija, Virtuali (2020)
@@ -273,6 +280,14 @@ Nuoroda į stendinių pranešimų vaizdus: [www.kliment.lt/posters](https://klim
 CASP (Critical Assessment of Techniques for Protein Structure Prediction) ir CAPRI (Critical Assessment of PRedicted Interactions)
 yra tarptautiniai eksperimentai skirti baltymų struktūrinės bioinformatikos metodams aklai testuoti.
 
+**2022**
+: Prisidėjęs prie vienų iš aukščiausių rezultatų CASP-CAPRI eksperimente ir CASP15 eksperimento oligomerinių struktūrų modeliavimo kategorijoje.
+Grupė "Venclovas", nariai: Olechnovič K, Dapkūnas J, Venclovas Č.
+
+**2022**
+: Pasiekti vieni iš aukščiausių rezultatų CASP15 eksperimento struktūrų kokybės vertinimo kategorijoje, taip pat aukščiausi rezultatai CASP-CAPRI struktūrų vertinimo eksperimente.
+Grupės "VoroMQA-A" ir "VoroMQA-B".
+
 **2020**
 : Prisidėjęs prie vienų iš aukščiausių rezultatų CASP-CAPRI eksperimente ir CASP14 eksperimento oligomerinių struktūrų modeliavimo kategorijoje.
 Grupė "Venclovas", nariai: Olechnovič K, Dapkūnas J, Venclovas Č.
@@ -287,7 +302,7 @@ Grupė "Venclovas", nariai: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2018**
 : Pasiekti vieni iš aukščiausių rezultatų CASP13 eksperimento struktūrų kokybės vertinimo kategorijoje.
-Grupės "VoroMQA-A" ir "VoroMQA-B", nariai: Olechnovič K, Venclovas Č.
+Grupės "VoroMQA-A" ir "VoroMQA-B".
 
 **2016**
 : Prisidėjęs prie aukščiausių rezultatų CASP-CAPRI eksperimente.
@@ -295,7 +310,7 @@ Grupė "Venclovas", nariai: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2016**
 : Pasiekti vieni iš aukščiausių rezultatų CASP12 eksperimento monomerinių struktūrų modeliavimo kategorijoje.
-Grupė "VoroMQA-select", nariai: Olechnovič K, Venclovas Č.
+Grupė "VoroMQA-select".
 
 
 ### Nacionaliniai apdovanojimai

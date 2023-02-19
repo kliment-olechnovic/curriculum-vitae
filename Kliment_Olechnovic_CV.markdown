@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Updated on 2022-07-01.  
+Updated on 2023-02-19.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -77,6 +77,11 @@ Latest CV online:
 
 
 ### Papers in peer-reviewed journals
+
+1. (preprint) [Discriminating Physiological from Non-Physiological Interfaces in Structures of Protein Complexes: A Community-Wide Study](https://doi.org/10.22541/au.167569565.51141128/v1).
+Schweke H, Xu Q, Tauriello G, Pantolini L, Schwede T, Cazals F, Lhéritier A, Fernandez-Recio J, Rodríguez-Lumbreras LÁ, Schueler-Furman O, Varga JK, Jiménez-García B, Réau MF, Bonvin A, Savojardo C, Martelli P-L, Casadio R, Tubiana J, Wolfson H, Oliva R, Barradas-Bautista D, Ricciardelli T, Cavallo L, Venclovas Č, **Olechnovič K**, Guerois R, Andreani J, Martin J, Wang X, Kihara D, Marchand A, Correia B, Zou X, Dey S, Dunbrack R, Levy E, Wodak S.  
+Preprint submitted to *Proteomics*. 2023.  
+[doi:10.22541/au.167569565.51141128/v1](https://doi.org/10.22541/au.167569565.51141128/v1).
 
 1. [Modeling SARS-CoV2 proteins in the CASP-commons experiment](https://doi.org/10.1002/prot.26231).  
 Kryshtafovych A, Moult A, Billings WM, Della Corte D, Fidelis K, Kwon S, **Olechnovič K**, Seok C, Venclovas Č, Won J, et al.  
@@ -233,6 +238,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
+* CASP15 meeting, Turkey, Antalya (2022)
 * AI at CIRM, France, Marseille (2021)
 * CASP14 meeting, Virtual (2020)
 * COINS, Lithuania, Vilnius (2019), *keynote presentation*
@@ -243,6 +249,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
+* CASP15 meeting, Antalya, Turkey (2022), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2022.png)
 * AI at CIRM, France, Marseille (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/AIatCIRM_2021.png)
 * PDB50, Virtual (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/PDB50_2021.png)
 * CASP14 meeting, Virtual (2020), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2020.png)
@@ -290,6 +297,14 @@ Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.i
 CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CAPRI (Critical Assessment of PRedicted Interactions)
 are world-wide experiments focused on the blind testing of methods for protein structural bioinformatics.
 
+**2022**
+: Contributed to one of the top performances in modeling structures of protein complexes in CASP15 and CASP15-CAPRI experiments (ranked 2nd in CASP, ranked 1st in CAPRI).
+Group "Venclovas", members: Olechnovič K, Valančauskas L, Dapkūnas J, Venclovas Č.
+
+**2022**
+: One of the top performances in EMA (estimation of model accuracy) in CASP15 experiment (and ranked 1st in CASP15-CAPRI scoring experiment).
+Groups "Venclovas" and "VoroIF".
+
 **2020**
 : Contributed to one of the top performances in modeling structures of protein complexes in CASP14 and CASP14-CAPRI experiments (ranked 2nd in CASP, ranked 1st in CAPRI jointly with two other groups).
 Group "Venclovas", members: Olechnovič K, Dapkūnas J, Venclovas Č.
@@ -304,7 +319,7 @@ Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2018**
 : One of the top performances in EMA (estimation of model accuracy) in CASP13 experiment (ranked 1st in prediction of unreliable regions).
-Groups "VoroMQA-A" and "VoroMQA-B", members: Olechnovič K, Venclovas Č.
+Groups "VoroMQA-A" and "VoroMQA-B".
 
 **2016**
 : Contributed to the best results (ranked 1st) in modeling structures of protein complexes in CASP12-CAPRI experiment.
@@ -312,7 +327,7 @@ Group "Venclovas", members: Dapkūnas J, Olechnovič K, Venclovas Č.
 
 **2016**
 : One of the top performances in protein structure prediction in CASP12 experiment.
-Group "VoroMQA-select", members: Olechnovič K, Venclovas Č.
+Group "VoroMQA-select".
 
 
 ### National awards
