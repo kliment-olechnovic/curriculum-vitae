@@ -276,6 +276,15 @@ Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.i
 * Voronota: a standalone software package of various tools for analyzing three-dimensional structures of biological macromolecules using the Voronoi diagram of atomic balls (includes the latest versions of CAD-score and VoroMQA methods).  
 [https://kliment-olechnovic.github.io/voronota](https://kliment-olechnovic.github.io/voronota/)
 
+* Voronota-JS: an expansion of the core Voronota software. Voronota-JS provides a way to write JavaScript scripts for the comprehensive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.
+[https://kliment-olechnovic.github.io/voronota/expansion_js/](https://kliment-olechnovic.github.io/voronota/expansion_js/)
+
+* Voronota-GL: a visual tool for the comprehensive interactive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.
+[https://kliment-olechnovic.github.io/voronota/expansion_gl/](https://kliment-olechnovic.github.io/voronota/expansion_gl/)
+
+* FTDMP: a software system for running docking experiments and scoring/ranking multimeric models (includes VoroIF-jury and VoroIF-GNN methods).
+[https://kliment-olechnovic.github.io/ftdmp/](https://kliment-olechnovic.github.io/ftdmp/)
+
 * VoroMQA web server for the assessment of protein structure quality using interatomic contact areas.  
 [https://bioinformatics.lt/wtsam/voromqa](https://bioinformatics.lt/wtsam/voromqa)
 
