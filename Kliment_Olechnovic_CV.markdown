@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Updated on 2023-02-19.  
+Updated on 2023-03-15.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -76,9 +76,14 @@ Latest CV online:
 ## Publications
 
 
-### Papers in peer-reviewed journals
+### Research papers
 
-1. (preprint) [Discriminating Physiological from Non-Physiological Interfaces in Structures of Protein Complexes: A Community-Wide Study](https://doi.org/10.22541/au.167569565.51141128/v1).
+1. (preprint) [Prediction of protein assemblies by structure sampling followed by interface-focused scoring](https://doi.org/10.1101/2023.03.07.531468).  
+**Olechnovič K**, Valančauskas L, Dapkūnas J, Venclovas Č.  
+Preprint submitted to *Proteins*. 2023.  
+[doi:10.1101/2023.03.07.531468](https://doi.org/10.1101/2023.03.07.531468).
+
+1. (preprint) [Discriminating Physiological from Non-Physiological Interfaces in Structures of Protein Complexes: A Community-Wide Study](https://doi.org/10.22541/au.167569565.51141128/v1).  
 Schweke H, Xu Q, Tauriello G, Pantolini L, Schwede T, Cazals F, Lhéritier A, Fernandez-Recio J, Rodríguez-Lumbreras LÁ, Schueler-Furman O, Varga JK, Jiménez-García B, Réau MF, Bonvin A, Savojardo C, Martelli P-L, Casadio R, Tubiana J, Wolfson H, Oliva R, Barradas-Bautista D, Ricciardelli T, Cavallo L, Venclovas Č, **Olechnovič K**, Guerois R, Andreani J, Martin J, Wang X, Kihara D, Marchand A, Correia B, Zou X, Dey S, Dunbrack R, Levy E, Wodak S.  
 Preprint submitted to *Proteomics*. 2023.  
 [doi:10.22541/au.167569565.51141128/v1](https://doi.org/10.22541/au.167569565.51141128/v1).
