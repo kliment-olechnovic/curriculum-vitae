@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2023-03-15.  
+Atnaujinta 2023-03-29.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -79,6 +79,11 @@ Nuoroda į CV anglų kalba:
 
 
 ### Mokslinės publikacijos
+
+1. (preprint) [TemStaPro: protein thermostability prediction using sequence representations from protein language models](https://doi.org/10.1101/2023.03.27.534365).  
+Pudžiuvelytė I, **Olechnovič K**, Godliauskaite E, Sermokas K, Urbaitis T, Gasiunas G, Kazlauskas D.  
+Preprint in *bioRxiv*. 2023.  
+[doi:10.1101/2023.03.27.534365](https://doi.org/10.1101/2023.03.27.534365).
 
 1. (preprint) [Prediction of protein assemblies by structure sampling followed by interface-focused scoring](https://doi.org/10.1101/2023.03.07.531468).  
 **Olechnovič K**, Valančauskas L, Dapkūnas J, Venclovas Č.  
