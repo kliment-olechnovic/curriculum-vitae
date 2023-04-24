@@ -78,6 +78,11 @@ Latest CV online:
 
 ### Research papers
 
+1. (preprint) [VoroIF-GNN: Voronoi tessellation-derived protein-protein interface assessment using a graph neural network](https://doi.org/10.1101/2023.04.19.537507).  
+**Olechnovič K**, Venclovas Č.  
+Preprint in *bioRxiv*. 2023.  
+[doi:10.1101/2023.04.19.537507](https://doi.org/10.1101/2023.04.19.537507).
+
 1. (preprint) [TemStaPro: protein thermostability prediction using sequence representations from protein language models](https://doi.org/10.1101/2023.03.27.534365).  
 Pudžiuvelytė I, **Olechnovič K**, Godliauskaite E, Sermokas K, Urbaitis T, Gasiunas G, Kazlauskas D.  
 Preprint in *bioRxiv*. 2023.  
