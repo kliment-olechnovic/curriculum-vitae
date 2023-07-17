@@ -2,13 +2,16 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2023-03-29.  
+Atnaujinta 2023-07-17.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
 
 ## Bendra informacija
+
+**Gimiau**
+: 1987 m. Vilniuje
 
 **Darbas**
 : Vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre
@@ -54,7 +57,7 @@ Nuoroda į CV anglų kalba:
 : Vyresnysis mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
 
 **2021–2022**
-: Vizituojantis mokslininkas, 21 savaitė (CNRS Jean Kuntzmann Laboratory, Grenoblis, Prancūzija)
+: Vizituojantis mokslininkas, viso 28 savaitės (CNRS Jean Kuntzmann Laboratory, Grenoblis, Prancūzija)
 
 **2017–2020**
 : Mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
@@ -80,9 +83,9 @@ Nuoroda į CV anglų kalba:
 
 ### Mokslinės publikacijos
 
-1. (preprint) [VoroIF-GNN: Voronoi tessellation-derived protein-protein interface assessment using a graph neural network](https://doi.org/10.1101/2023.04.19.537507).  
+1. (preprint, accepted) [VoroIF-GNN: Voronoi tessellation-derived protein-protein interface assessment using a graph neural network](https://doi.org/10.1101/2023.04.19.537507).  
 **Olechnovič K**, Venclovas Č.  
-Preprint in *bioRxiv*. 2023.  
+Preprint, paper accepted to *Proteins*. 2023.  
 [doi:10.1101/2023.04.19.537507](https://doi.org/10.1101/2023.04.19.537507).
 
 1. (preprint) [TemStaPro: protein thermostability prediction using sequence representations from protein language models](https://doi.org/10.1101/2023.03.27.534365).  
@@ -92,12 +95,17 @@ Preprint in *bioRxiv*. 2023.
 
 1. (preprint) [Prediction of protein assemblies by structure sampling followed by interface-focused scoring](https://doi.org/10.1101/2023.03.07.531468).  
 **Olechnovič K**, Valančauskas L, Dapkūnas J, Venclovas Č.  
-Preprint submitted to *Proteins*. 2023.  
+Preprint, paper submitted to *Proteins*. 2023.  
 [doi:10.1101/2023.03.07.531468](https://doi.org/10.1101/2023.03.07.531468).
 
-1. (preprint) [Discriminating Physiological from Non-Physiological Interfaces in Structures of Protein Complexes: A Community-Wide Study](https://doi.org/10.22541/au.167569565.51141128/v1).  
+1. (preprint) [Impact of AlphaFold on Structure Prediction of Protein Complexes: The CASP15-CAPRI Experiment](https://doi.org/10.22541/au.168888815.53957253/v1).  
+Lensink M, Brysbaert G, Raouraoua N, Bates P, Giulini M, Vargas Honorato R, van Noort C, Teixeira J, MJJ Bonvin A, Kong R, Shi H, Lu X, Chang S, Liu J, Guo Z, Chen X, Morehead A, Roy R, Wu T, Giri N, Quadir F, Chen C, Cheng J, Del Carpio C, Ichiishi E, Fernández-Recio J, Harmalkar A, Chu L, Canner S, Smanta R, Gray J, Li H, Lin P, He J, Tao H, Huang S, Roel J, Jimenez-Garcia B, Christoffer C, Jain A, Kagaya Y, Kannan H, Nakamura T, Terashi G, Verburgt J, Zhang Y, Zhang Z, Fujuta H, Sekijima M, Kihara D, Khan O, Kotelnikov S, Ghani U, Padhorny D, Beglov D, Vajda S, Kozakov D, Negi S, Ricciardelli T, Barradas-Bautista D, Cao Z, Chawla M, Cavallo L, Oliva R, Yin R, Cheung M, Guest J, Lee J, Pierce B, Shor B, Cohen T, Halfon M, Schneidman-Duhovny D, Zhu S, Yin R, Sun Y, Shen Y, Maszota-Zieleniak M, Bojarski K, Lubecka E, Marcisz M, Danielsson A, Dziadek L, Gaardlos M, Giełdoń A, Liwo J, Samsonov S, Slusarz R, Zieba K, Sieradzan A, Czaplewski C, Kobayashi S, Miyakawa Y, Kiyota Y, Takeda-Shitaka M, **Olechnovič K**, Valančauskas L, Dapkūnas J, Venclovas C, Wallner B, Yang L, Hou C, He X, Guo S, Jiang S, Ma X, Duan R, Qiu L, Xu X, Zou X, Velankar S, Wodak S.  
+Preprint, paper submitted to *Proteins*. 2023.  
+[doi:10.22541/au.168888815.53957253/v1](https://doi.org/10.22541/au.168888815.53957253/v1).
+
+1. (preprint, accepted) [Discriminating Physiological from Non-Physiological Interfaces in Structures of Protein Complexes: A Community-Wide Study](https://doi.org/10.22541/au.167569565.51141128/v1).  
 Schweke H, Xu Q, Tauriello G, Pantolini L, Schwede T, Cazals F, Lhéritier A, Fernandez-Recio J, Rodríguez-Lumbreras LÁ, Schueler-Furman O, Varga JK, Jiménez-García B, Réau MF, Bonvin A, Savojardo C, Martelli P-L, Casadio R, Tubiana J, Wolfson H, Oliva R, Barradas-Bautista D, Ricciardelli T, Cavallo L, Venclovas Č, **Olechnovič K**, Guerois R, Andreani J, Martin J, Wang X, Kihara D, Marchand A, Correia B, Zou X, Dey S, Dunbrack R, Levy E, Wodak S.  
-Preprint submitted to *Proteomics*. 2023.  
+Preprint, paper accepted to *Proteomics*. 2023.  
 [doi:10.22541/au.167569565.51141128/v1](https://doi.org/10.22541/au.167569565.51141128/v1).
 
 1. [Modeling SARS-CoV2 proteins in the CASP-commons experiment](https://doi.org/10.1002/prot.26231).  
