@@ -14,7 +14,8 @@ Nuoroda į CV anglų kalba:
 : 1987 m. Vilniuje
 
 **Darbas**
-: Vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre
+: MSCA Postdoctoral Fellow, CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija (nuo 2023-09-01 iki 2025-08-31)
+: ilgalaikėje stažuoteje kaip vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre iki 2025-09-01
 
 **E-paštas**
 : <kliment.olechnovic@bti.vu.lt>
@@ -53,7 +54,10 @@ Nuoroda į CV anglų kalba:
 
 ## Darbo patirtis
 
-**2020–dabar**
+**2023–dabar**
+: MSCA Postdoctoral Fellow (CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija)
+
+**2020–2023**
 : Vyresnysis mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
 
 **2021–2022**

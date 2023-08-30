@@ -14,7 +14,8 @@ Latest CV online:
 : 1987 in Vilnius, Lithuania
 
 **Occupation**
-: Senior Researcher at Vilnius University Life Sciences Center
+: MSCA Postdoctoral Fellow at CNRS Laboratoire Jean Kuntzmann, Grenoble, France (from 2023-09-01 to 2025-08-31)
+: on sabbatical leave as Senior Researcher at Vilnius University Life Sciences Center until 2025-09-01
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
@@ -51,7 +52,10 @@ Latest CV online:
 
 ## Work experience
 
-**2020–now**
+**2023–now**
+: MSCA Postdoctoral Fellow (CNRS Laboratoire Jean Kuntzmann, Grenoble, France)
+
+**2020–2023**
 : Senior Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2021–2023**
