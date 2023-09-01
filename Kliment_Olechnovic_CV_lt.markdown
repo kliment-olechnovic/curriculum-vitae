@@ -2,16 +2,13 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2023-08-30.  
+Atnaujinta 2023-09-01.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
 
 ## Bendra informacija
-
-**Gimiau**
-: 1987 m. Vilniuje
 
 **Darbas**
 : MSCA Postdoctoral Fellow, CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija (nuo 2023-09-01 iki 2025-08-31)
