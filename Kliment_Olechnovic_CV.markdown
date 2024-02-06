@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Updated on 2023-09-01.  
+Updated on 2024-02-06.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -82,6 +82,11 @@ Latest CV online:
 
 ### Research papers
 
+1. (preprint) [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
+**Olechnovič K**, Grudinin S.  
+Preprint in *bioRxiv*. 2024.  
+[doi:10.1101/2024.02.05.577169](https://doi.org/10.1101/2024.02.05.577169).  
+
 1. [VoroIF-GNN: Voronoi tessellation-derived protein-protein interface assessment using a graph neural network](https://doi.org/10.1002/prot.26554).  
 **Olechnovič K**, Venclovas Č.  
 *Proteins*. 2023 Jul 21.  
@@ -99,10 +104,11 @@ Pudžiuvelytė I, **Olechnovič K**, Godliauskaite E, Sermokas K, Urbaitis T, Ga
 Preprint in *bioRxiv*. 2023.  
 [doi:10.1101/2023.03.27.534365](https://doi.org/10.1101/2023.03.27.534365).
 
-1. (preprint) [Impact of AlphaFold on Structure Prediction of Protein Complexes: The CASP15-CAPRI Experiment](https://doi.org/10.22541/au.168888815.53957253/v1).  
+1. [Impact of AlphaFold on Structure Prediction of Protein Complexes: The CASP15-CAPRI Experiment](https://doi.org/10.1002/prot.26609).  
 Lensink M, Brysbaert G, Raouraoua N, Bates P, Giulini M, Vargas Honorato R, van Noort C, Teixeira J, MJJ Bonvin A, Kong R, Shi H, Lu X, Chang S, Liu J, Guo Z, Chen X, Morehead A, Roy R, Wu T, Giri N, Quadir F, Chen C, Cheng J, Del Carpio C, Ichiishi E, Fernández-Recio J, Harmalkar A, Chu L, Canner S, Smanta R, Gray J, Li H, Lin P, He J, Tao H, Huang S, Roel J, Jimenez-Garcia B, Christoffer C, Jain A, Kagaya Y, Kannan H, Nakamura T, Terashi G, Verburgt J, Zhang Y, Zhang Z, Fujuta H, Sekijima M, Kihara D, Khan O, Kotelnikov S, Ghani U, Padhorny D, Beglov D, Vajda S, Kozakov D, Negi S, Ricciardelli T, Barradas-Bautista D, Cao Z, Chawla M, Cavallo L, Oliva R, Yin R, Cheung M, Guest J, Lee J, Pierce B, Shor B, Cohen T, Halfon M, Schneidman-Duhovny D, Zhu S, Yin R, Sun Y, Shen Y, Maszota-Zieleniak M, Bojarski K, Lubecka E, Marcisz M, Danielsson A, Dziadek L, Gaardlos M, Giełdoń A, Liwo J, Samsonov S, Slusarz R, Zieba K, Sieradzan A, Czaplewski C, Kobayashi S, Miyakawa Y, Kiyota Y, Takeda-Shitaka M, **Olechnovič K**, Valančauskas L, Dapkūnas J, Venclovas C, Wallner B, Yang L, Hou C, He X, Guo S, Jiang S, Ma X, Duan R, Qiu L, Xu X, Zou X, Velankar S, Wodak S.  
-Preprint, paper submitted to *Proteins*. 2023.  
-[doi:10.22541/au.168888815.53957253/v1](https://doi.org/10.22541/au.168888815.53957253/v1).
+*Proteins*. 2023 Oct 31.  
+[doi:10.1002/prot.26609](https://doi.org/10.1002/prot.26609).  
+[PMID:37905971](https://pubmed.ncbi.nlm.nih.gov/37905971/).
 
 1. [Discriminating Physiological from Non-Physiological Interfaces in Structures of Protein Complexes: A Community-Wide Study](https://doi.org/10.22541/au.167569565.51141128/v1).  
 Schweke H, Xu Q, Tauriello G, Pantolini L, Schwede T, Cazals F, Lhéritier A, Fernandez-Recio J, Rodríguez-Lumbreras LÁ, Schueler-Furman O, Varga JK, Jiménez-García B, Réau MF, Bonvin A, Savojardo C, Martelli P-L, Casadio R, Tubiana J, Wolfson H, Oliva R, Barradas-Bautista D, Ricciardelli T, Cavallo L, Venclovas Č, **Olechnovič K**, Guerois R, Andreani J, Martin J, Wang X, Kihara D, Marchand A, Correia B, Zou X, Dey S, Dunbrack R, Levy E, Wodak S.  
@@ -305,6 +311,9 @@ Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.i
 
 * Voronota-JS: an expansion of the core Voronota software. Voronota-JS provides a way to write JavaScript scripts for the comprehensive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.
 [https://kliment-olechnovic.github.io/voronota/expansion_js/](https://kliment-olechnovic.github.io/voronota/expansion_js/)
+
+* Voronota-LT: an expansion of the core Voronota software. Voronota-LT (pronounced ‘voronota lite’) is an alternative, significantly faster version of Voronota for constructing tessellation-derived atomic contact areas and volumes.
+[https://kliment-olechnovic.github.io/voronota/expansion_lt/](https://kliment-olechnovic.github.io/voronota/expansion_lt/)
 
 * Voronota-GL: a visual tool for the comprehensive interactive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.
 [https://kliment-olechnovic.github.io/voronota/expansion_gl/](https://kliment-olechnovic.github.io/voronota/expansion_gl/)
