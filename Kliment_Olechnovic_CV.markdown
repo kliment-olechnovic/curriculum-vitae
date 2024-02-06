@@ -267,7 +267,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 [doi:10.1002/prot.25129](https://doi.org/10.1002/prot.25129).
 
 
-## Presentations
+## Presentations and posters
 
 ### Oral presentations at international conferences
 
@@ -302,6 +302,8 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 * VizBi, Germany, Heidelberg (2010), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/VizBi_2010.png)
 
 Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
+
+[<img src="posters/montage.png">](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
 
 
 ## Main published software

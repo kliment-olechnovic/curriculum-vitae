@@ -304,6 +304,8 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 Nuoroda į stendinių pranešimų vaizdus: [www.kliment.lt/posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
 
+[<img src="posters/montage.png">](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html)
+
 
 ## Pasiekimai ir apdovanojimai
 
