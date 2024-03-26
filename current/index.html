@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
-  <title>Info for 2024.03.26-27</title>
+  <title>Structural Bioinformatics Workshow on 2024.03.26-27</title>
 </head>
 <body>
 
-<h1>Example protein</h1>
+<h1>Structural Bioinformatics Workshow on 2024.03.26-27</h1>
+
+<h2>Example protein</h2>
 
 <p>
 For an educational example, we will "cheat" a little bit.
@@ -16,9 +18,9 @@ Let's take a small protein that already has a structure in PDB - <b>5ZKT</b> (<a
 But let's not look at the structure right away, but start with the full sequence - UniProt entry <b>Q0D8K4</b> (<a href="https://www.uniprot.org/uniprotkb/Q0D8K4/entry">https://www.uniprot.org/uniprotkb/Q0D8K4/entry</a>).
 </p>
 
-<h1>Getting structural models</h1>
+<h2>Getting structural models</h2>
 
-<h2>Finding available structural predictions</h2>
+<h3>Finding available structural predictions</h3>
 
 <p>
 UniProt entry <b>Q0D8K4</b> has an already generated prediction in the AlphaFold Protein Structure Database - <a href="https://alphafold.ebi.ac.uk/entry/Q0D8K4">https://alphafold.ebi.ac.uk/entry/Q0D8K4</a>
@@ -28,7 +30,7 @@ UniProt entry <b>Q0D8K4</b> has an already generated prediction in the AlphaFold
 But we see that this prediction is not very useful - it is too long and only monomeric.
 </p>
 
-<h2>Generating structural predictions</h2>
+<h3>Generating structural predictions</h3>
 
 <p>
 Let's focus on the annotated functional domain (the TCP domain), here is its sequence in FASTA format:
@@ -78,13 +80,17 @@ Here are the ColabFold result archives in case ColabFold is not accessible durin
 Here is the ColabFold result <a href="data/unrelaxed_rank_001_chain_A.pdb">first-ranked dimeric structural model</a> and <a href="data/unrelaxed_rank_001.pdb">its first chain</a>.
 </p>
 
-<h1>Homology-based inference</h1>
+<h2>Homology-based inference</h2>
 
 <p>
 <i>"Nothing in Biology Makes Sense Except in the Light of Evolution"</i> - Theodosius Dobzhansky.
 </p>
 
-<h2>Using sequence</h2>
+<h3>Using sequence</h3>
+
+<p>
+Perhaps the most common and efficient way to quickly look for homologs of a single sequence is <a href="https://toolkit.tuebingen.mpg.de/tools/hhpred">HHpred</a>.
+</p>
 
 <p>
 Let's use <a href="https://bioinformatics.lt/ppi3d/">PPI3D</a>
@@ -99,7 +105,7 @@ Using single-sequence BLAST search we get <a href="https://bioinformatics.lt/ppi
 This allows us to generate a model of the partial <a href="data/tbm_protein_DNA.pdb">protein-DNA complex</a> that can be superimposed with the AlphaFold-generated dimer to get a rough protein-DNA complex model.
 </p>
 
-<h2>Using structure</h2>
+<h3>Using structure</h3>
 
 <p>
 Let's submit the first chain of our best model to <a href="https://search.foldseek.com/search">Foldseek</a> to quickly find similar proteins.
@@ -110,9 +116,9 @@ You can submit the first chain of our best model to <a href="http://ekhidna2.bio
 The resulting job link <a href="http://ekhidna2.biocenter.helsinki.fi/barcosel/tmp//kxciECtAYWF/">http://ekhidna2.biocenter.helsinki.fi/barcosel/tmp/kxciECtAYWF/</a>
 </p>
 
-<h1>Analysis of structures</h1>
+<h2>Analysis of structures</h2>
 
-<h2>Analyzing whether a structure is relatively realistic</h2>
+<h3>Analyzing whether a structure is relatively realistic</h3>
 
 <p>
 Let's use VoroMQA to assess the realism of our models: <a href="https://bioinformatics.lt/wtsam/voromqa/job-voromqa-MSMA2X">https://bioinformatics.lt/wtsam/voromqa/job-voromqa-MSMA2X</a>.
@@ -122,7 +128,7 @@ Let's use VoroMQA to assess the realism of our models: <a href="https://bioinfor
 VoroMQA can also be used to select best models out of many, especially useful whn models com from sorces different than AlphaFold: <a href="https://bioinformatics.lt/wtsam/voromqa/job-voromqa-A8PUHU">https://bioinformatics.lt/wtsam/voromqa/job-voromqa-A8PUHU</a>.
 </p>
 
-<h2>Analysis of interesting contacts</h2>
+<h3>Analysis of interesting contacts</h3>
 
 <p>
 Let's use VoroContacts to analyze what are the most important interface contacts: <a href="https://bioinformatics.lt/wtsam/vorocontacts/job-vorocontacts-LPNG6A">https://bioinformatics.lt/wtsam/vorocontacts/job-vorocontacts-LPNG6A</a>.
