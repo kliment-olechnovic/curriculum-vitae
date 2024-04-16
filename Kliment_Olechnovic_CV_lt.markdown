@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Atnaujinta 2024-02-06.  
+Atnaujinta 2024-04-16.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -89,6 +89,18 @@ Nuoroda į CV anglų kalba:
 Preprint in *bioRxiv*. 2024.  
 [doi:10.1101/2024.02.05.577169](https://doi.org/10.1101/2024.02.05.577169).  
 
+1. [PPI3D: a web server for searching, analyzing and modeling protein-protein, protein-peptide and protein-nucleic acid interactions](https://doi.org/10.1093/nar/gkae278).  
+Dapkūnas J, Timinskas A, **Olechnovič K**, Tomkuvienė M, Venclovas Č.  
+*Nucleic Acids Res*. 2024 Apr.  
+[doi:10.1093/nar/gkae278](https://doi.org/10.1093/nar/gkae278).  
+[PMID:38619046](https://pubmed.ncbi.nlm.nih.gov/38619046/).
+
+1. [TemStaPro: protein thermostability prediction using sequence representations from protein language models](https://doi.org/10.1093/bioinformatics/btae157).  
+Pudžiuvelytė I, **Olechnovič K**, Godliauskaite E, Sermokas K, Urbaitis T, Gasiunas G, Kazlauskas D.  
+*Bioinformatics*. 2024 Apr 4.  
+[doi:10.1093/bioinformatics/btae157](https://doi.org/10.1093/bioinformatics/btae157).  
+[PMID:38507682](https://pubmed.ncbi.nlm.nih.gov/38507682/).
+
 1. [VoroIF-GNN: Voronoi tessellation-derived protein-protein interface assessment using a graph neural network](https://doi.org/10.1002/prot.26554).  
 **Olechnovič K**, Venclovas Č.  
 *Proteins*. 2023 Jul 21.  
@@ -100,11 +112,6 @@ Preprint in *bioRxiv*. 2024.
 *Proteins*. 2023 Aug 14.  
 [doi:10.1002/prot.26569](https://doi.org/10.1002/prot.26569).  
 [PMID:37578163](https://pubmed.ncbi.nlm.nih.gov/37578163/).
-
-1. (preprint) [TemStaPro: protein thermostability prediction using sequence representations from protein language models](https://doi.org/10.1101/2023.03.27.534365).  
-Pudžiuvelytė I, **Olechnovič K**, Godliauskaite E, Sermokas K, Urbaitis T, Gasiunas G, Kazlauskas D.  
-Preprint in *bioRxiv*. 2023.  
-[doi:10.1101/2023.03.27.534365](https://doi.org/10.1101/2023.03.27.534365).
 
 1. [Impact of AlphaFold on Structure Prediction of Protein Complexes: The CASP15-CAPRI Experiment](https://doi.org/10.1002/prot.26609).  
 Lensink M, Brysbaert G, Raouraoua N, Bates P, Giulini M, Vargas Honorato R, van Noort C, Teixeira J, MJJ Bonvin A, Kong R, Shi H, Lu X, Chang S, Liu J, Guo Z, Chen X, Morehead A, Roy R, Wu T, Giri N, Quadir F, Chen C, Cheng J, Del Carpio C, Ichiishi E, Fernández-Recio J, Harmalkar A, Chu L, Canner S, Smanta R, Gray J, Li H, Lin P, He J, Tao H, Huang S, Roel J, Jimenez-Garcia B, Christoffer C, Jain A, Kagaya Y, Kannan H, Nakamura T, Terashi G, Verburgt J, Zhang Y, Zhang Z, Fujuta H, Sekijima M, Kihara D, Khan O, Kotelnikov S, Ghani U, Padhorny D, Beglov D, Vajda S, Kozakov D, Negi S, Ricciardelli T, Barradas-Bautista D, Cao Z, Chawla M, Cavallo L, Oliva R, Yin R, Cheung M, Guest J, Lee J, Pierce B, Shor B, Cohen T, Halfon M, Schneidman-Duhovny D, Zhu S, Yin R, Sun Y, Shen Y, Maszota-Zieleniak M, Bojarski K, Lubecka E, Marcisz M, Danielsson A, Dziadek L, Gaardlos M, Giełdoń A, Liwo J, Samsonov S, Slusarz R, Zieba K, Sieradzan A, Czaplewski C, Kobayashi S, Miyakawa Y, Kiyota Y, Takeda-Shitaka M, **Olechnovič K**, Valančauskas L, Dapkūnas J, Venclovas C, Wallner B, Yang L, Hou C, He X, Guo S, Jiang S, Ma X, Duan R, Qiu L, Xu X, Zou X, Velankar S, Wodak S.  
@@ -138,7 +145,7 @@ Dapkūnas J, **Olechnovič K**, Venclovas Č.
 
 1. [VoroContacts: a tool for the analysis of interatomic contacts in macromolecular structures](https://doi.org/10.1093/bioinformatics/btab448).  
 **Olechnovič K**, Venclovas Č.  
-*Bioinformatics*. 2021 Jun 16.
+*Bioinformatics*. 2021 Jun 16.  
 [pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btab448/38660285/btab448.pdf?guestAccessKey=ea40f0bc-eb2b-44c7-bc9b-6ffc53fac8f4).  
 [doi:10.1093/bioinformatics/btab448](https://doi.org/10.1093/bioinformatics/btab448).  
 [PMID:34132767](https://pubmed.ncbi.nlm.nih.gov/34132767).
@@ -152,6 +159,7 @@ Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.
 1. [Template-based modeling of diverse protein interactions in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25845).  
 Dapkūnas J, Kairys V, **Olechnovič K**, Venclovas Č.  
 *Proteins*. 2020 Aug;88(8):939-947.  
+[pdf](https://www.bti.vu.lt/dokumentai/skyriu_medziaga/bi/publications/2020_CAPRI_38-45_interaction_modeling_Proteins.pdf).  
 [doi:10.1002/prot.25845](https://doi.org/10.1002/prot.25845).  
 [PMID:31697420](https://www.ncbi.nlm.nih.gov/pubmed/31697420).
 
@@ -272,6 +280,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* Joint ICB Workshop and 8th CAPRI Assessment Meeting, Prancūzija, Grenoblis (2024)
 * CASP15 konferencija, Turkija, Antalija (2022)
 * AI at CIRM, Prancūzija, Marselis (2021)
 * CASP14 konferencija, Virtuali (2020)
