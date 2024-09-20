@@ -8,10 +8,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="pandoc_with_toc.css" />
@@ -19,22 +27,27 @@
 <body>
 <nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#dr.-kliment-olechnovič">Dr. Kliment Olechnovič</a>
+<li><a href="#dr.-kliment-olechnovič"
+id="toc-dr.-kliment-olechnovič">Dr. Kliment Olechnovič</a>
 <ul>
-<li><a href="#general-information">General information</a></li>
-<li><a href="#education">Education</a></li>
-<li><a href="#work-experience">Work experience</a></li>
-<li><a href="#publications">Publications</a></li>
-<li><a href="#presentations-and-posters">Presentations and
-posters</a></li>
-<li><a href="#main-published-software">Main published software</a></li>
-<li><a href="#achievements-and-awards">Achievements and awards</a></li>
+<li><a href="#general-information" id="toc-general-information">General
+information</a></li>
+<li><a href="#education" id="toc-education">Education</a></li>
+<li><a href="#work-experience" id="toc-work-experience">Work
+experience</a></li>
+<li><a href="#publications" id="toc-publications">Publications</a></li>
+<li><a href="#presentations-and-posters"
+id="toc-presentations-and-posters">Presentations and posters</a></li>
+<li><a href="#main-published-software"
+id="toc-main-published-software">Main published software</a></li>
+<li><a href="#achievements-and-awards"
+id="toc-achievements-and-awards">Achievements and awards</a></li>
 </ul></li>
 </ul>
 </nav>
 <h1 id="dr.-kliment-olechnovič">Dr. Kliment Olechnovič</h1>
 <p><img style="width:200px;float:right;" src="photo_alt.jpg"></p>
-<p>Updated on 2024-04-16.<br />
+<p>Updated on 2024-08-31.<br />
 Latest CV online: <a
 href="https://kliment-olechnovic.github.io/curriculum-vitae/index.html">https://www.kliment.lt</a>
 | <a
