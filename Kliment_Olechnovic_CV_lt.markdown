@@ -1,4 +1,4 @@
-# Dr. Kliment Olechnovič
+# Dr. Kliment Olechnovič - CURRICULUM VITAE
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
@@ -11,8 +11,8 @@ Nuoroda į CV anglų kalba:
 ## Bendra informacija
 
 **Darbas**
+: vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre (šiuo metu ilgalaikėje stažuoteje iki 2025-09-01)
 : MSCA Postdoctoral Fellow, CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija (nuo 2023-09-01 iki 2025-08-31)
-: ilgalaikėje stažuoteje kaip vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre iki 2025-09-01
 
 **E-paštas**
 : <kliment.olechnovic@bti.vu.lt>
