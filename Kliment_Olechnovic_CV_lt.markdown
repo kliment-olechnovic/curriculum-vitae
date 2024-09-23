@@ -11,7 +11,7 @@ Nuoroda į CV anglų kalba:
 ## Bendra informacija
 
 **Darbas**
-: vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre (šiuo metu ilgalaikėje stažuoteje iki 2025-09-01)
+: vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre (šiuo metu ilgalaikėje stažuotėje iki 2025-09-01)
 : MSCA Postdoctoral Fellow, CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija (nuo 2023-09-01 iki 2025-08-31)
 
 **E-paštas**
@@ -330,7 +330,7 @@ Grupė "Venclovas", nariai: Olechnovič K, Dapkūnas J, Venclovas Č.
 
 **2022**
 : Pasiekti vieni iš aukščiausių rezultatų CASP15 eksperimento struktūrų kokybės vertinimo kategorijoje, taip pat aukščiausi rezultatai CASP-CAPRI struktūrų vertinimo eksperimente.
-Grupės "VoroMQA-A" ir "VoroMQA-B".
+Grupės "Venclovas" ir "VoroIF".
 
 **2020**
 : Prisidėjęs prie vienų iš aukščiausių rezultatų CASP-CAPRI eksperimente ir CASP14 eksperimento oligomerinių struktūrų modeliavimo kategorijoje.
@@ -363,7 +363,7 @@ Grupė "VoroMQA-select".
 : Lietuvos Mokslų Akademijos jaunųjų mokslininkų stipendija
 
 **2018**
-: Konkurso "Geriausia daktaro disertacija Lietuvoje 2017 metais" laurėatas
+: Konkurso "Geriausia daktaro disertacija Lietuvoje 2017 metais" laureatas
 
 **2015**
 : Lietuvos Mokslų Akademijos apdovanojimas už geriausius jaunųjų mokslininkų darbus 2014 metais
