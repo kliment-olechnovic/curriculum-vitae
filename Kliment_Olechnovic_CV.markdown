@@ -2,7 +2,7 @@
 
 <img style="width:200px;float:right;" src="photo_alt.jpg">
 
-Updated on 2024-08-31.  
+Updated on 2025-01-07.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -81,6 +81,12 @@ Latest CV online:
 
 
 ### Research papers
+
+1. [FTDMP: A Framework for Protein-Protein, Protein-DNA, and Protein-RNA Docking and Scoring](https://doi.org/10.1002/prot.26792).  
+**Olechnovič K**, Banciul R, Dapkūnas J, Venclovas Č.  
+*Proteins*. 2025 Jan 2.  
+[doi:10.1002/prot.26792](https://doi.org/10.1002/prot.26792).  
+[PMID:39748638](https://pubmed.ncbi.nlm.nih.gov/39748638/).
 
 1. (preprint) [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
 **Olechnovič K**, Grudinin S.  
@@ -278,6 +284,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
+* 2nd ML4NGP Meeting on Machine Learning and Non-globular proteins, Thessaloniki, Greece (2024)
 * Joint ICB Workshop and 8th CAPRI Assessment Meeting, France, Grenoble (2024)
 * CASP15 meeting, Turkey, Antalya (2022)
 * AI at CIRM, France, Marseille (2021)
@@ -290,6 +297,8 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
+* CASP16 meeting, Punta Cana, Dominican Republic (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
+* NCSB meeting, Nancy, France (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
 * CASP15 meeting, Antalya, Turkey (2022), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2022.png)
 * AI at CIRM, France, Marseille (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/AIatCIRM_2021.png)
 * PDB50, Virtual (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/PDB50_2021.png)
