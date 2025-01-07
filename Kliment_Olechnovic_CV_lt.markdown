@@ -333,6 +333,14 @@ Nuoroda į stendinių pranešimų vaizdus: [www.kliment.lt/posters](https://klim
 CASP (Critical Assessment of Techniques for Protein Structure Prediction) ir CAPRI (Critical Assessment of PRedicted Interactions)
 yra tarptautiniai eksperimentai skirti baltymų struktūrinės bioinformatikos metodams aklai testuoti.
 
+**2024**
+: Pasiekti vieni iš aukščiausių rezultatų CASP16-CAPRI struktūrų vertinimo eksperimente.
+Grupė "Olechnovic".
+
+**2024**
+: Prisidėjęs prie vienų iš aukščiausių rezultatų CAPRI eksperimento 47–55 etapuose.
+Grupė "Venclovas", nariai: Dapkūnas J, Olechnovič K, Venclovas Č.
+
 **2022**
 : Prisidėjęs prie vienų iš aukščiausių rezultatų CASP-CAPRI eksperimente ir CASP15 eksperimento oligomerinių struktūrų modeliavimo kategorijoje.
 Grupė "Venclovas", nariai: Olechnovič K, Dapkūnas J, Venclovas Č.
@@ -406,7 +414,7 @@ Pranešimo pavadinimas: *CAD-score: a new method for the evaluation of protein s
 ### Kiti pasiekimai
 
 **2018**
-: Lietuvos dziudo imtynių čempionas, dziudo juodas diržas.
+: Lietuvos dziudo čempionas, dziudo juodas diržas.
 
 **2018**
 : Lietuvos sambo imtynių čempionas.
