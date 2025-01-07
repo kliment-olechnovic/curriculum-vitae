@@ -28,6 +28,9 @@ Latest CV online:
 **GitHub**
 : <https://github.com/kliment-olechnovic>
 
+**Bluesky**
+: <https://bsky.app/profile/kliment-olechnovic.bsky.social>
+
 ### Main research interests
 
 * Structural bioinformatics
