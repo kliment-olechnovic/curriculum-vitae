@@ -7,6 +7,17 @@ Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
+## Introduction
+
+I am a scientist interested in developing novel effective methods of structural bioinformatics.
+I have developed multiple computational methods for analyzing and evaluating biomolecular structures, e.g. Voronota, CAD-score, VoroMQA, VoroIF-GNN, VoroIF-jury/FTDMP, and other (see [software](https://www.kliment.lt/#main-published-software) and [publications](https://www.kliment.lt/#publications)).
+The developed methods construct and utilize the Voronoi tessellation of atomic balls and the tessellation-derived interatomic contact areas.
+The developed tessellation-based methodology is especially efficient in analyzing protein-protein interfaces and was instrumental
+in all the recent [successes](https://www.kliment.lt/#achievements-in-casp-and-capri-experiments)
+of the Vilnius University team in recent community-wide CASP and CAPRI challenges in 2016-2024.
+
+My current scientific goal is to elevate the field of the analysis of 3D molecular structures to the next level
+using computational geometry (particularly the Voronoi tessellations) in synergy with machine learning.
 
 ## General information
 
@@ -25,17 +36,14 @@ Latest CV online:
 **ORCID**
 : <https://orcid.org/0000-0003-4918-9505>
 
+**Semantic Scholar**
+: <https://www.semanticscholar.org/author/2671554>
+
 **GitHub**
 : <https://github.com/kliment-olechnovic>
 
 **Bluesky**
 : <https://bsky.app/profile/kliment-olechnovic.bsky.social>
-
-### Main research interests
-
-* Structural bioinformatics
-* Machine learning
-* Computational geometry
 
 
 ## Education
