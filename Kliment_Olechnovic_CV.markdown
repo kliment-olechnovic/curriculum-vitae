@@ -9,15 +9,19 @@ Latest CV online:
 
 ## Introduction
 
-I am a scientist interested in developing novel effective methods of structural bioinformatics.
+I am a scientist interested in developing novel effective methods of **structural bioinformatics**.
+
 I have developed multiple computational methods for analyzing and evaluating biomolecular structures, e.g. Voronota, CAD-score, VoroMQA, VoroIF-GNN, VoroIF-jury/FTDMP, and other (see [software](https://www.kliment.lt/#main-published-software) and [publications](https://www.kliment.lt/#publications)).
-The developed methods construct and utilize the Voronoi tessellation of atomic balls and the tessellation-derived interatomic contact areas.
+Most of my methods construct and utilize the Voronoi tessellation of atomic balls and the tessellation-derived interatomic contact areas.
 The developed tessellation-based methodology is especially efficient in analyzing protein-protein interfaces and was instrumental
 in all the recent [successes](https://www.kliment.lt/#achievements-in-casp-and-capri-experiments)
 of the Vilnius University team in recent community-wide CASP and CAPRI challenges in 2016-2024.
 
-My current scientific goal is to elevate the field of the analysis of 3D molecular structures to the next level
-using computational geometry (particularly the Voronoi tessellations) in synergy with machine learning.
+My current scientific goal is to elevate the field of the **analysis of 3D molecular structures** to the next level
+using **computational geometry** (particularly the Voronoi tessellations) in synergy with **machine learning**.
+
+Currently, I am a member of two research groups: [GruLab](https://grulab.imag.fr) and [VU GMC Bioinformatics](<https://bioinformatics.lt>).
+
 
 ## General information
 
@@ -26,6 +30,9 @@ using computational geometry (particularly the Voronoi tessellations) in synergy
 : on sabbatical leave as Senior Researcher at Vilnius University Life Sciences Center until 2025-09-01
 
 **Email**
+: <kliment.olechnovic@bti.vu.lt>
+
+**Research groups**
 : <kliment.olechnovic@bti.vu.lt>
 
 ### Online profiles
@@ -336,32 +343,40 @@ Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.i
 
 ## Main published software
 
-* Voronota: a standalone software package of various tools for analyzing three-dimensional structures of biological macromolecules using the Voronoi diagram of atomic balls (includes the latest versions of CAD-score and VoroMQA methods).  
+### Developed by me
+
+* **Voronota**: a standalone software package of various tools for analyzing three-dimensional structures of biological macromolecules using the Voronoi diagram of atomic balls (includes the latest versions of CAD-score and VoroMQA methods).  
 [https://kliment-olechnovic.github.io/voronota](https://kliment-olechnovic.github.io/voronota/)
 
-* Voronota-JS: an expansion of the core Voronota software. Voronota-JS provides a way to write JavaScript scripts for the comprehensive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.
+* **Voronota-JS**: an expansion of the core Voronota software. Voronota-JS provides a way to write JavaScript scripts for the comprehensive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.  
 [https://kliment-olechnovic.github.io/voronota/expansion_js/](https://kliment-olechnovic.github.io/voronota/expansion_js/)
 
-* Voronota-LT: an expansion of the core Voronota software. Voronota-LT (pronounced ‘voronota lite’) is an alternative, significantly faster version of Voronota for constructing tessellation-derived atomic contact areas and volumes.
+* **Voronota-LT**: an expansion of the core Voronota software. Voronota-LT (pronounced ‘voronota lite’) is an alternative, significantly faster version of Voronota for constructing tessellation-derived atomic contact areas and volumes.  
 [https://kliment-olechnovic.github.io/voronota/expansion_lt/](https://kliment-olechnovic.github.io/voronota/expansion_lt/)
 
-* Voronota-GL: a visual tool for the comprehensive interactive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.
+* **Voronota-GL**: a visual tool for the comprehensive interactive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.  
 [https://kliment-olechnovic.github.io/voronota/expansion_gl/](https://kliment-olechnovic.github.io/voronota/expansion_gl/)
 
-* FTDMP: a software system for running docking experiments and scoring/ranking multimeric models (includes VoroIF-jury and VoroIF-GNN methods).
+* **FTDMP**: a software system for running docking experiments and scoring/ranking multimeric models (includes VoroIF-jury and VoroIF-GNN methods).  
 [https://kliment-olechnovic.github.io/ftdmp/](https://kliment-olechnovic.github.io/ftdmp/)
 
-* VoroMQA web server for the assessment of protein structure quality using interatomic contact areas.  
+* **VoroMQA web server** for the assessment of protein structure quality using interatomic contact areas.  
 [https://bioinformatics.lt/wtsam/voromqa](https://bioinformatics.lt/wtsam/voromqa)
 
-* VoroContacts web server for the computation and interactive querying of Voronoi tessellation-derived contacts.  
+* **VoroContacts web server** for the computation and interactive querying of Voronoi tessellation-derived contacts.  
 [https://bioinformatics.lt/wtsam/vorocontacts](https://bioinformatics.lt/wtsam/vorocontacts/submit)
 
-* CAD-score web server for contact area-based comparison of structures and interfaces of proteins, nucleic acids and their complexes.  
+* **CAD-score web server** for contact area-based comparison of structures and interfaces of proteins, nucleic acids and their complexes.  
 [https://bioinformatics.lt/cad-score/](https://bioinformatics.lt/cad-score)
 
-* Voroprot: an interactive tool for exploring some tesselation-derived features of protein structures (no longer maintained).  
+* **Voroprot**: an interactive tool for exploring some tesselation-derived features of protein structures (no longer maintained).  
 [https://bioinformatics.lt/software/voroprot](https://bioinformatics.lt/software/voroprot)
+
+### Developed under my supervision
+
+* **TemStaPro**: a standalone software for protein thermostability prediction using sequence representations from protein language models.  
+[https://github.com/ievapudz/TemStaPro](https://github.com/ievapudz/TemStaPro).  
+TemStaPro was mainly developed by Ieva Pudžiuvelytė.
 
 
 ## Achievements and awards
