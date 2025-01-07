@@ -26,8 +26,8 @@ Currently, I am a member of two research groups: [GruLab](https://grulab.imag.fr
 ## General information
 
 **Occupation**
-: MSCA Postdoctoral Fellow at CNRS Laboratoire Jean Kuntzmann, Grenoble, France (from 2023-09-01 to 2025-08-31)
-: on sabbatical leave as Senior Researcher at Vilnius University Life Sciences Center until 2025-09-01
+: MSCA Postdoctoral Fellow at CNRS Laboratoire Jean Kuntzmann, Grenoble, France (from 2023/09 to 2025/08)
+: on sabbatical leave as Senior Researcher at Vilnius University Life Sciences Center until 2025/09
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
