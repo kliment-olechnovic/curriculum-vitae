@@ -37,3 +37,8 @@ dd
 	margin: 0 0 0 8.5em;
 	padding: 0 0 0.5em 0;
 }
+
+.leftnav
+{
+	display: none;
+}

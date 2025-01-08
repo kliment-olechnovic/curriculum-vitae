@@ -1,8 +1,24 @@
+<div class="leftnav">
+<a href="#dr.-kliment-olechnovič">Intro</a>
+
+<a href="#general-information">General info</a>
+
+<a href="#publications">Publications</a>
+
+<a href="#presentations-and-posters">Presentations</a>
+
+<a href="#poster-presentations-at-international-conferences">Posters</a>
+
+<a href="#main-published-software">Software</a>
+
+<a href="#achievements-and-awards">Other</a>
+</div>
+
 # Dr. Kliment Olechnovič
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-01-07.  
+Updated on 2025-01-08.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).

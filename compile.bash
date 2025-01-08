@@ -19,8 +19,8 @@ wkhtmltopdf --enable-local-file-access -L 12mm -R 12mm -T 12mm -B 12mm ./Kliment
 rm ./Kliment_Olechnovic_CV_compact.markdown ./Kliment_Olechnovic_CV_compact.html
 
 rm ./index.html
-pandoc ./Kliment_Olechnovic_CV.markdown --css pandoc_with_toc.css -f markdown -t html --metadata title="$DOCUMENTTITLE" --variable title="" -s --toc --toc-depth=2 -o ./index.html
+pandoc ./Kliment_Olechnovic_CV.markdown --css pandoc_with_toc.css -f markdown -t html --metadata title="$DOCUMENTTITLE" --variable title="" -s -o ./index.html
 
 rm ./index_lt.html
-pandoc ./Kliment_Olechnovic_CV_lt.markdown --css pandoc_with_toc.css -f markdown -t html --metadata title="$DOCUMENTTITLE" --variable title="" -s --toc --toc-depth=2 -o ./index_lt.html
+pandoc ./Kliment_Olechnovic_CV_lt.markdown --css pandoc_with_toc.css -f markdown -t html --metadata title="$DOCUMENTTITLE" --variable title="" -s -o ./index_lt.html
 
