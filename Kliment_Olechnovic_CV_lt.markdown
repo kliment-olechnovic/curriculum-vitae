@@ -1,6 +1,6 @@
 # Dr. Kliment Olechnovič - CURRICULUM VITAE
 
-<img style="width:200px;float:right;" src="photo_alt.jpg">
+<img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
 Atnaujinta 2024-01-07.  
 Nuoroda į CV anglų kalba:
@@ -17,8 +17,8 @@ Nuoroda į CV anglų kalba:
 **E-paštas**
 : <kliment.olechnovic@bti.vu.lt>
 
-
-### Nuorodos į publikacijų ir sukurtos programinės įrangos profilius:
+**GitHub**
+: <https://github.com/kliment-olechnovic>
 
 **Google Scholar**
 : <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
@@ -26,8 +26,8 @@ Nuoroda į CV anglų kalba:
 **ORCID**
 : <https://orcid.org/0000-0003-4918-9505>
 
-**GitHub**
-: <https://github.com/kliment-olechnovic>
+**Semantic Scholar**
+: <https://www.semanticscholar.org/author/2671554>
 
 
 ### Pagrindiniai moksliniai interesai
@@ -300,7 +300,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 ### Stendiniai pranešimai traptautinėse konferencijose
 
 * CASP16 konferencija, Dominikos Respublika, Punta Cana (2024)
-* NCSB konferencija, Prancūzija, Nansi (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
+* NCSB konferencija, Prancūzija, Nansi (2024)
 * CASP15 konferencija, Turkija, Antalija (2022)
 * AI at CIRM, Prancūzija, Marselis (2021)
 * PDB50, Virtuali (2021)

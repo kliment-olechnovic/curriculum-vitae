@@ -1,6 +1,6 @@
 # Dr. Kliment Olechnovič
 
-<img style="width:200px;float:right;" src="photo_alt.jpg">
+<img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
 Updated on 2025-01-07.  
 Latest CV online:
@@ -13,6 +13,7 @@ I am a scientist interested in developing novel effective methods of **structura
 
 I have developed multiple computational methods for analyzing and evaluating biomolecular structures, e.g. Voronota, CAD-score, VoroMQA, VoroIF-GNN, VoroIF-jury/FTDMP, and other (see [software](https://www.kliment.lt/#main-published-software) and [publications](https://www.kliment.lt/#publications)).
 Most of my methods construct and utilize the Voronoi tessellation of atomic balls and the tessellation-derived interatomic contact areas.
+A substantial part of my research is illustrated in [posters](https://kliment-olechnovic.github.io/curriculum-vitae/posters/index.html).
 The developed tessellation-based methodology is especially efficient in analyzing protein-protein interfaces and was instrumental
 in all the recent [successes](https://www.kliment.lt/#achievements-in-casp-and-capri-experiments)
 of the Vilnius University team in recent community-wide CASP and CAPRI challenges in 2016-2024.
@@ -20,7 +21,7 @@ of the Vilnius University team in recent community-wide CASP and CAPRI challenge
 My current scientific goal is to elevate the field of the **analysis of 3D molecular structures** to the next level
 using **computational geometry** (particularly the Voronoi tessellations) in synergy with **machine learning**.
 
-Currently, I am a member of two research groups: [GruLab](https://grulab.imag.fr) and [VU GMC Bioinformatics](<https://bioinformatics.lt>).
+Currently I am a member of two research groups: [GruLab](https://grulab.imag.fr) and [VU GMC Bioinformatics](<https://bioinformatics.lt>).
 
 
 ## General information
@@ -32,8 +33,8 @@ Currently, I am a member of two research groups: [GruLab](https://grulab.imag.fr
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
 
-
-### Online profiles
+**GitHub**
+: <https://github.com/kliment-olechnovic>
 
 **Google Scholar**
 : <https://scholar.google.lt/citations?user=uT_t5ewAAAAJ>
@@ -43,9 +44,6 @@ Currently, I am a member of two research groups: [GruLab](https://grulab.imag.fr
 
 **Semantic Scholar**
 : <https://www.semanticscholar.org/author/2671554>
-
-**GitHub**
-: <https://github.com/kliment-olechnovic>
 
 **Bluesky**
 : <https://bsky.app/profile/kliment-olechnovic.bsky.social>
@@ -386,7 +384,7 @@ CASP (Critical Assessment of Techniques for Protein Structure Prediction) and CA
 are world-wide experiments focused on the blind testing of methods for protein structural bioinformatics.
 
 **2024**
-: Top performance (ranked 1st in CAPRI assessment of scoring groups) in the CASP16-CAPRI scoring experiment.
+: Top performance (ranked 1st in the CAPRI assessment of scoring groups) in the CASP16-CAPRI scoring experiment.
 Group "Olechnovic".
 
 **2024**
