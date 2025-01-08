@@ -163,8 +163,7 @@ Dapkūnas J, **Olechnovič K**, Venclovas Č.
 
 1. [VoroContacts: a tool for the analysis of interatomic contacts in macromolecular structures](https://doi.org/10.1093/bioinformatics/btab448).  
 **Olechnovič K**, Venclovas Č.  
-*Bioinformatics*. 2021 Jun 16.  
-[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btab448/38660285/btab448.pdf?guestAccessKey=ea40f0bc-eb2b-44c7-bc9b-6ffc53fac8f4).  
+*Bioinformatics*. 2021 Jun 16. [pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btab448/38660285/btab448.pdf?guestAccessKey=ea40f0bc-eb2b-44c7-bc9b-6ffc53fac8f4).  
 [doi:10.1093/bioinformatics/btab448](https://doi.org/10.1093/bioinformatics/btab448).  
 [PMID:34132767](https://pubmed.ncbi.nlm.nih.gov/34132767).
 
@@ -176,8 +175,7 @@ Igashov I, **Olechnovič K**, Kadukova M, Venclovas Č, Grudinin S.
 
 1. [Template-based modeling of diverse protein interactions in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25845).  
 Dapkūnas J, Kairys V, **Olechnovič K**, Venclovas Č.  
-*Proteins*. 2020 Aug;88(8):939-947.  
-[pdf](https://www.bti.vu.lt/dokumentai/skyriu_medziaga/bi/publications/2020_CAPRI_38-45_interaction_modeling_Proteins.pdf).  
+*Proteins*. 2020 Aug;88(8):939-947. [pdf](https://www.bti.vu.lt/dokumentai/skyriu_medziaga/bi/publications/2020_CAPRI_38-45_interaction_modeling_Proteins.pdf).  
 [doi:10.1002/prot.25845](https://doi.org/10.1002/prot.25845).  
 [PMID:31697420](https://www.ncbi.nlm.nih.gov/pubmed/31697420).
 
