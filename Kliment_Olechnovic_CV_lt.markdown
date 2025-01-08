@@ -29,8 +29,6 @@ Nuoroda į CV anglų kalba:
 **GitHub**
 : <https://github.com/kliment-olechnovic>
 
-**Bluesky**
-: <https://bsky.app/profile/kliment-olechnovic.bsky.social>
 
 ### Pagrindiniai moksliniai interesai
 

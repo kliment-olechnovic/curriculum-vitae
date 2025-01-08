@@ -32,8 +32,6 @@ Currently, I am a member of two research groups: [GruLab](https://grulab.imag.fr
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
 
-**Research groups**
-: <kliment.olechnovic@bti.vu.lt>
 
 ### Online profiles
 
