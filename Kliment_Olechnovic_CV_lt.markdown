@@ -2,7 +2,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Atnaujinta 2024-01-08.  
+Atnaujinta 2024-01-24.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -286,6 +286,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* Beyond the structural frontier: Modeling the dynamics of biomolecular interfaces, Prancūzija, Paryžius (2024)
 * 2nd ML4NGP Meeting on Machine Learning and Non-globular proteins, Graikija, Salonikai (2024)
 * Joint ICB Workshop and 8th CAPRI Assessment Meeting, Prancūzija, Grenoblis (2024)
 * CASP15 konferencija, Turkija, Antalija (2022)

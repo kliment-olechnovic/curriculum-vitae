@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-01-08.  
+Updated on 2025-01-24.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -312,6 +312,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
+* Beyond the structural frontier: Modeling the dynamics of biomolecular interfaces, Paris, France (2024)
 * 2nd ML4NGP Meeting on Machine Learning and Non-globular proteins, Thessaloniki, Greece (2024)
 * Joint ICB Workshop and 8th CAPRI Assessment Meeting, France, Grenoble (2024)
 * CASP15 meeting, Turkey, Antalya (2022)
