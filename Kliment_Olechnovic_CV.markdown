@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-01-24.  
+Updated on 2025-02-07.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -440,6 +440,10 @@ Group "VoroMQA-select".
 
 
 ### National awards
+
+**2025**
+: Lithuanian Science Prize 2024, awarded to the group of scientists: Justas Dapkūnas, Darius Kazlauskas, **Kliment Olechnovič**, and Česlovas Venclovas
+for the cycle of studies "Development and application of protein structural bioinformatics methods (2010–2023)"
 
 **2019**
 : Lithuanian Academy of Sciences scholarship for young scientists

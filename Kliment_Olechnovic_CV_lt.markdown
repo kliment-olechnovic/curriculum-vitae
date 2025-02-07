@@ -2,7 +2,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Atnaujinta 2024-01-24.  
+Atnaujinta 2024-02-07.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -376,6 +376,9 @@ Grupė "VoroMQA-select".
 
 
 ### Nacionaliniai apdovanojimai
+
+**2025**
+: Lietuvos Mokslo Premija 2024, skirta  Justui Dapkūnui, Dariui Kazlauskui, **Kliment Olechnovič** ir Česlovui Venclovui už darbų ciklą "Baltymų struktūrinės bioinformatikos metodų kūrimas ir taikymas (2010–2023)"
 
 **2019**
 : Lietuvos Mokslų Akademijos jaunųjų mokslininkų stipendija
