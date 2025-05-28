@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-02-07.  
+Updated on 2025-05-28.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -326,6 +326,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
+* ML4NGP meeting, Vilnius, Lithuania (2025), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ML4NGP_2025.png)
 * CASP16 meeting, Punta Cana, Dominican Republic (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
 * NCSB meeting, Nancy, France (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
 * CASP15 meeting, Antalya, Turkey (2022), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2022.png)

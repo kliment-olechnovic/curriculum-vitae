@@ -2,7 +2,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Atnaujinta 2024-02-07.  
+Atnaujinta 2024-05-28.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -300,6 +300,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Stendiniai pranešimai traptautinėse konferencijose
 
+* ML4NGP konferencija, Vilnius, Lietuva (2025)
 * CASP16 konferencija, Dominikos Respublika, Punta Cana (2024)
 * NCSB konferencija, Prancūzija, Nansi (2024)
 * CASP15 konferencija, Turkija, Antalija (2022)
