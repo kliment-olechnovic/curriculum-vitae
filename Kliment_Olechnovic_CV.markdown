@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-05-28.  
+Updated on 2025-06-26.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -112,16 +112,16 @@ Currently I am a member of two research groups: [GruLab](https://grulab.imag.fr)
 
 ### Research papers
 
+1. [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
+**Olechnovič K**, Grudinin S.  
+Accepted to *J Comput Chem*. 2025.  
+Preprint in *bioRxiv* [doi:10.1101/2024.02.05.577169](https://doi.org/10.1101/2024.02.05.577169).
+
 1. [FTDMP: A Framework for Protein-Protein, Protein-DNA, and Protein-RNA Docking and Scoring](https://doi.org/10.1002/prot.26792).  
 **Olechnovič K**, Banciul R, Dapkūnas J, Venclovas Č.  
 *Proteins*. 2025 Jan 2.  
 [doi:10.1002/prot.26792](https://doi.org/10.1002/prot.26792).  
 [PMID:39748638](https://pubmed.ncbi.nlm.nih.gov/39748638/).
-
-1. (preprint) [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
-**Olechnovič K**, Grudinin S.  
-Preprint in *bioRxiv*. 2024.  
-[doi:10.1101/2024.02.05.577169](https://doi.org/10.1101/2024.02.05.577169).  
 
 1. [PPI3D: a web server for searching, analyzing and modeling protein-protein, protein-peptide and protein-nucleic acid interactions](https://doi.org/10.1093/nar/gkae278).  
 Dapkūnas J, Timinskas A, **Olechnovič K**, Tomkuvienė M, Venclovas Č.  
@@ -368,6 +368,15 @@ Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.i
 
 * **Voronota-GL**: a visual tool for the comprehensive interactive analysis of macromolecular structures, including the Voronoi tesselation-based analysis.  
 [https://kliment-olechnovic.github.io/voronota/expansion_gl/](https://kliment-olechnovic.github.io/voronota/expansion_gl/)
+
+* **VoroMarmotte**: a method to predict whether Voronoi tessellation-derived contact areas observed in a single conformation of a protein are likely to persist (remain stable) in an ensemble of multiple conformations of the same protein.  
+[https://github.com/kliment-olechnovic/voromarmotte-app](https://github.com/kliment-olechnovic/voromarmotte-app)
+
+* **VoroChipmunk**: a method to calculate area statistical pseudo-energy of interfaces in protein complexes, based on the observed probabilities of atom-atom contact areas to occur and persist in structural ensembles from PDB.  
+[https://github.com/kliment-olechnovic/vorochipmunk-app](https://github.com/kliment-olechnovic/vorochipmunk-app)
+
+* **VoroIF-GNN-v2**: a new version of the VoroIF-GNN, uses tessellation contact area-based pseudoenergy descriptors based on the observed and expected probabilities of contacts to occur and persist in folded conformations.  
+[https://github.com/kliment-olechnovic/voroif-gnn-v2-app](https://github.com/kliment-olechnovic/voroif-gnn-v2-app)
 
 * **FTDMP**: a software system for running docking experiments and scoring/ranking multimeric models (includes VoroIF-jury and VoroIF-GNN methods).  
 [https://kliment-olechnovic.github.io/ftdmp/](https://kliment-olechnovic.github.io/ftdmp/)
