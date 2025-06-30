@@ -329,6 +329,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
+* PSB Symposium on Machine Learning in Cellular Structural Biology, Grenoble, France (2025), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ML4NGP_2025.png)
 * ML4NGP meeting, Vilnius, Lithuania (2025), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ML4NGP_2025.png)
 * CASP16 meeting, Punta Cana, Dominican Republic (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
 * NCSB meeting, Nancy, France (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
