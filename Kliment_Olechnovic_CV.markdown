@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-06-26.  
+Updated on 2025-06-30.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -312,9 +312,12 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
+* PSB Symposium on Machine Learning in Cellular Structural Biology, Grenoble, France (2025)
+* ELIXIR 3DBioinfo Annual General Meeting | ISCB 3DSig 2025, Barcelona, Spain (2025)
+* MASIM (Algorithmic Methods for Macromolecular Structures and Interactions), Paris, France (2025)
 * Beyond the structural frontier: Modeling the dynamics of biomolecular interfaces, Paris, France (2024)
 * 2nd ML4NGP Meeting on Machine Learning and Non-globular proteins, Thessaloniki, Greece (2024)
-* Joint ICB Workshop and 8th CAPRI Assessment Meeting, France, Grenoble (2024)
+* Joint ICB Workshop and 8th CAPRI Assessment Meeting, Grenoble, France (2024)
 * CASP15 meeting, Turkey, Antalya (2022)
 * AI at CIRM, France, Marseille (2021)
 * CASP14 meeting, Virtual (2020)
