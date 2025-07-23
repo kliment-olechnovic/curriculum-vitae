@@ -2,7 +2,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Atnaujinta 2024-05-28.  
+Atnaujinta 2025-07-23.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -84,16 +84,18 @@ Nuoroda į CV anglų kalba:
 
 ### Mokslinės publikacijos
 
+1. [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
+**Olechnovič K**, Grudinin S.  
+*J Comput Chem*. 2025 Jul;46(19):e70178.  
+[doi:10.1002/jcc.70178](https://doi.org/10.1002/jcc.70178)  
+[PMID:40632668](https://pubmed.ncbi.nlm.nih.gov/40632668/).  
+*Zenodo* [doi:10.5281/zenodo.15877514](https://doi.org/10.5281/zenodo.15877514).
+
 1. [FTDMP: A Framework for Protein-Protein, Protein-DNA, and Protein-RNA Docking and Scoring](https://doi.org/10.1002/prot.26792).  
 **Olechnovič K**, Banciul R, Dapkūnas J, Venclovas Č.  
 *Proteins*. 2025 Jan 2.  
 [doi:10.1002/prot.26792](https://doi.org/10.1002/prot.26792).  
 [PMID:39748638](https://pubmed.ncbi.nlm.nih.gov/39748638/).
-
-1. (preprint) [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
-**Olechnovič K**, Grudinin S.  
-Preprint in *bioRxiv*. 2024.  
-[doi:10.1101/2024.02.05.577169](https://doi.org/10.1101/2024.02.05.577169).  
 
 1. [PPI3D: a web server for searching, analyzing and modeling protein-protein, protein-peptide and protein-nucleic acid interactions](https://doi.org/10.1093/nar/gkae278).  
 Dapkūnas J, Timinskas A, **Olechnovič K**, Tomkuvienė M, Venclovas Č.  
@@ -286,6 +288,9 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* PSB Symposium on Machine Learning in Cellular Structural Biology, Prancūzija, Grenoblis (2025)
+* ELIXIR 3DBioinfo Annual General Meeting | ISCB 3DSig 2025, Ispanija, Barselona (2025)
+* MASIM (Algorithmic Methods for Macromolecular Structures and Interactions), Prancūzija, Paryžius (2025)
 * Beyond the structural frontier: Modeling the dynamics of biomolecular interfaces, Prancūzija, Paryžius (2024)
 * 2nd ML4NGP Meeting on Machine Learning and Non-globular proteins, Graikija, Salonikai (2024)
 * Joint ICB Workshop and 8th CAPRI Assessment Meeting, Prancūzija, Grenoblis (2024)
@@ -300,6 +305,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Stendiniai pranešimai traptautinėse konferencijose
 
+* PSB Symposium, Prancūzija, Grenoblis (2025)
 * ML4NGP konferencija, Vilnius, Lietuva (2025)
 * CASP16 konferencija, Dominikos Respublika, Punta Cana (2024)
 * NCSB konferencija, Prancūzija, Nansi (2024)

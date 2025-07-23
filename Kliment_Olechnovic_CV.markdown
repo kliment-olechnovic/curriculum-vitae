@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-06-30.  
+Updated on 2025-07-23.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -114,8 +114,10 @@ Currently I am a member of two research groups: [GruLab](https://grulab.imag.fr)
 
 1. [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
 **Olechnovič K**, Grudinin S.  
-Accepted to *J Comput Chem*. 2025.  
-Preprint in *bioRxiv* [doi:10.1101/2024.02.05.577169](https://doi.org/10.1101/2024.02.05.577169).
+*J Comput Chem*. 2025 Jul;46(19):e70178.  
+[doi:10.1002/jcc.70178](https://doi.org/10.1002/jcc.70178)  
+[PMID:40632668](https://pubmed.ncbi.nlm.nih.gov/40632668/).  
+*Zenodo* [doi:10.5281/zenodo.15877514](https://doi.org/10.5281/zenodo.15877514).
 
 1. [FTDMP: A Framework for Protein-Protein, Protein-DNA, and Protein-RNA Docking and Scoring](https://doi.org/10.1002/prot.26792).  
 **Olechnovič K**, Banciul R, Dapkūnas J, Venclovas Č.  
@@ -378,6 +380,10 @@ Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.i
 
 * **VoroChipmunk**: a method to calculate area statistical pseudo-energy of interfaces in protein complexes, based on the observed probabilities of atom-atom contact areas to occur and persist in structural ensembles from PDB.  
 [https://github.com/kliment-olechnovic/vorochipmunk-app](https://github.com/kliment-olechnovic/vorochipmunk-app)
+
+* **VoroNikon**: a method to calculate area statistical pseudo-energy of interfaces for protein complexes
+with peptides that can contain non-canonical amino acid residues.  
+[https://github.com/kliment-olechnovic/voronikon-app](https://github.com/kliment-olechnovic/voronikon-app)
 
 * **VoroIF-GNN-v2**: a new version of the VoroIF-GNN, uses tessellation contact area-based pseudoenergy descriptors based on the observed and expected probabilities of contacts to occur and persist in folded conformations.  
 [https://github.com/kliment-olechnovic/voroif-gnn-v2-app](https://github.com/kliment-olechnovic/voroif-gnn-v2-app)
