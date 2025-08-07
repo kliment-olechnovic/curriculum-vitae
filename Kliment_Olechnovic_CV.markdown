@@ -385,6 +385,9 @@ Gallery of posters: [www.kliment.lt/posters](https://kliment-olechnovic.github.i
 with peptides that can contain non-canonical amino acid residues.  
 [https://github.com/kliment-olechnovic/voronikon-app](https://github.com/kliment-olechnovic/voronikon-app)
 
+* **VoroPadding**: a method to calculate how much space is available for atoms to occupy around a selected part of the molecular structure (e.g. a ligand).  
+[https://github.com/kliment-olechnovic/voropadding-app](https://github.com/kliment-olechnovic/voropadding-app)
+
 * **VoroIF-GNN-v2**: a new version of the VoroIF-GNN, uses tessellation contact area-based pseudoenergy descriptors based on the observed and expected probabilities of contacts to occur and persist in folded conformations.  
 [https://github.com/kliment-olechnovic/voroif-gnn-v2-app](https://github.com/kliment-olechnovic/voroif-gnn-v2-app)
 
