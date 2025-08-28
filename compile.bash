@@ -2,7 +2,7 @@
 
 cd "$(dirname $0)"
 
-DOCUMENTTITLE="Dr. Kliment Olechnovič - Curriculum Vitae"
+DOCUMENTTITLE="Dr. Kliment Olechnovič"
 
 ################################################################################
 

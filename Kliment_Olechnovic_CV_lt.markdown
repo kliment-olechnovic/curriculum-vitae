@@ -11,8 +11,7 @@ Nuoroda į CV anglų kalba:
 ## Bendra informacija
 
 **Darbas**
-: vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre (šiuo metu ilgalaikėje stažuotėje iki 2025-09-01)
-: MSCA Postdoctoral Fellow, CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija (nuo 2023-09-01 iki 2025-08-31)
+: Vyresnysis mokslo darbuotojas Vilniaus universiteto Gyvybės mokslų centre
 
 **E-paštas**
 : <kliment.olechnovic@bti.vu.lt>
@@ -51,8 +50,14 @@ Nuoroda į CV anglų kalba:
 
 ## Darbo patirtis
 
-**2023–dabar**
-: MSCA Postdoctoral Fellow (CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija)
+**2025–dabar**
+: Vyresnysis mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
+
+**2025**
+: Vizituojantis mokslininkas, 8 savaitės (EPFL LPDI, Grenoblis, Prancūzija)
+
+**2023–2025**
+: MSCA Postdoctoral Fellow, 2 metai (CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija)
 
 **2020–2023**
 : Vyresnysis mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)

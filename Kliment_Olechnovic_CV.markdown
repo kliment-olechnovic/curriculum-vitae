@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-07-23.  
+Updated on 2025-07-29.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -37,14 +37,14 @@ of the Vilnius University team in recent community-wide CASP and CAPRI challenge
 My current scientific goal is to elevate the field of the **analysis of 3D molecular structures** to the next level
 using **computational geometry** (particularly the Voronoi tessellations) in synergy with **machine learning**.
 
-Currently I am a member of two research groups: [GruLab](https://grulab.imag.fr) and [VU GMC Bioinformatics](<https://bioinformatics.lt>).
+I am a member of the [VU GMC Bioinformatics](<https://bioinformatics.lt>) research group.
+In 2023-2025 I was also a member of the [GruLab](https://grulab.imag.fr) research group.
 
 
 ## General information
 
 **Occupation**
-: MSCA Postdoctoral Fellow at CNRS Laboratoire Jean Kuntzmann, Grenoble, France (from 2023/09 to 2025/08)
-: on sabbatical leave as Senior Researcher at Vilnius University Life Sciences Center until 2025/09
+: Senior Researcher at Vilnius University Life Sciences Center
 
 **Email**
 : <kliment.olechnovic@bti.vu.lt>
@@ -79,20 +79,26 @@ Currently I am a member of two research groups: [GruLab](https://grulab.imag.fr)
 
 ## Work experience
 
-**2023–now**
-: MSCA Postdoctoral Fellow (CNRS Laboratoire Jean Kuntzmann, Grenoble, France)
+**2025–now**
+: Senior Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+
+**2025**
+: Visiting Researcher, for 8 weeks (EPFL LPDI, Lausanne, Switzerland)
+
+**2023–2025**
+: MSCA Postdoctoral Fellow, for 2 years (CNRS Laboratoire Jean Kuntzmann, Grenoble, France)
 
 **2020–2023**
 : Senior Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2021–2023**
-: Visiting researcher, for 28 weeks in total (CNRS Laboratoire Jean Kuntzmann, Grenoble, France)
+: Visiting Researcher, for 28 weeks in total (CNRS Laboratoire Jean Kuntzmann, Grenoble, France)
 
 **2017–2020**
 : Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2019–2020**
-: Visiting researcher, for 9 weeks (Inria, Grenoble, France)
+: Visiting Researcher, for 9 weeks (Inria, Grenoble, France)
 
 **2013–2017**
 : Junior Researcher (Vilnius University / Institute of Biotechnology)
