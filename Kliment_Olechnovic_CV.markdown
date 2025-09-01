@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-07-29.  
+Updated on 2025-09-01.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -37,7 +37,7 @@ of the Vilnius University team in recent community-wide CASP and CAPRI challenge
 My current scientific goal is to elevate the field of the **analysis of 3D molecular structures** to the next level
 using **computational geometry** (particularly the Voronoi tessellations) in synergy with **machine learning**.
 
-I am a member of the [VU GMC Bioinformatics](<https://bioinformatics.lt>) research group.
+I am a member of the [VU GMC Bioinformatics](https://bioinformatics.lt) research group.
 In 2023-2025 I was also a member of the [GruLab](https://grulab.imag.fr) research group.
 
 
@@ -80,7 +80,7 @@ In 2023-2025 I was also a member of the [GruLab](https://grulab.imag.fr) researc
 ## Work experience
 
 **2025–now**
-: Senior Researcher (Vilnius University / Life Sciences Center / Institute of Biotechnology)
+: Senior Researcher, permanent (Vilnius University / Life Sciences Center / Institute of Biotechnology)
 
 **2025**
 : Visiting Researcher, for 8 weeks (EPFL LPDI, Lausanne, Switzerland)
