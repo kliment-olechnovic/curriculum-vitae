@@ -293,6 +293,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* Computing in Crystallography Forum, Lenkija, Poznanė (2025)
 * PSB Symposium on Machine Learning in Cellular Structural Biology, Prancūzija, Grenoblis (2025)
 * ELIXIR 3DBioinfo Annual General Meeting | ISCB 3DSig 2025, Ispanija, Barselona (2025)
 * MASIM (Algorithmic Methods for Macromolecular Structures and Interactions), Prancūzija, Paryžius (2025)
@@ -304,14 +305,14 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 * CASP14 konferencija, Virtuali (2020)
 * COINS, Lietuva, Vilnius (2019), *keynote*
 * CASP13 konferencija, Meksika, Riviera Maya (2018)
-* VitaScientia, Lithuania, Vilnius (2018)
+* VitaScientia, Lietuva, Vilnius (2018)
 * CASP12 konferencija, Italija, Gaeta (2016)
 * CASP10 konferencija, Italija, Gaeta (2012)
 
 ### Stendiniai pranešimai traptautinėse konferencijose
 
 * PSB Symposium, Prancūzija, Grenoblis (2025)
-* ML4NGP konferencija, Vilnius, Lietuva (2025)
+* ML4NGP konferencija, Lietuva, Vilnius (2025)
 * CASP16 konferencija, Dominikos Respublika, Punta Cana (2024)
 * NCSB konferencija, Prancūzija, Nansi (2024)
 * CASP15 konferencija, Turkija, Antalija (2022)

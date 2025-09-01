@@ -320,12 +320,13 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
-* PSB Symposium on Machine Learning in Cellular Structural Biology, Grenoble, France (2025)
-* ELIXIR 3DBioinfo Annual General Meeting | ISCB 3DSig 2025, Barcelona, Spain (2025)
-* MASIM (Algorithmic Methods for Macromolecular Structures and Interactions), Paris, France (2025)
-* Beyond the structural frontier: Modeling the dynamics of biomolecular interfaces, Paris, France (2024)
-* 2nd ML4NGP Meeting on Machine Learning and Non-globular proteins, Thessaloniki, Greece (2024)
-* Joint ICB Workshop and 8th CAPRI Assessment Meeting, Grenoble, France (2024)
+* Computing in Crystallography Forum, Poland, Poznan (2025)
+* PSB Symposium on Machine Learning in Cellular Structural Biology, France, Grenoble (2025)
+* ELIXIR 3DBioinfo Annual General Meeting | ISCB 3DSig 2025, Spain, Barcelona (2025)
+* MASIM (Algorithmic Methods for Macromolecular Structures and Interactions), France, Paris (2025)
+* Beyond the structural frontier: Modeling the dynamics of biomolecular interfaces, France, Paris (2024)
+* 2nd ML4NGP Meeting on Machine Learning and Non-globular proteins, Greece, Thessaloniki (2024)
+* Joint ICB Workshop and 8th CAPRI Assessment Meeting, France, Grenoble (2024)
 * CASP15 meeting, Turkey, Antalya (2022)
 * AI at CIRM, France, Marseille (2021)
 * CASP14 meeting, Virtual (2020)
@@ -337,11 +338,11 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Poster presentations at international conferences
 
-* PSB Symposium on Machine Learning in Cellular Structural Biology, Grenoble, France (2025), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ML4NGP_2025.png)
-* ML4NGP meeting, Vilnius, Lithuania (2025), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ML4NGP_2025.png)
-* CASP16 meeting, Punta Cana, Dominican Republic (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
-* NCSB meeting, Nancy, France (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
-* CASP15 meeting, Antalya, Turkey (2022), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2022.png)
+* PSB Symposium on Machine Learning in Cellular Structural Biology, France, Grenoble (2025), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ML4NGP_2025.png)
+* ML4NGP meeting, Lithuania, Vilnius (2025), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/ML4NGP_2025.png)
+* CASP16 meeting, Dominican Republic, Punta Cana (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
+* NCSB meeting, France, Nancy (2024), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/NCSB_2024.png)
+* CASP15 meeting, Turkey, Antalya (2022), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2022.png)
 * AI at CIRM, France, Marseille (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/AIatCIRM_2021.png)
 * PDB50, Virtual (2021), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/PDB50_2021.png)
 * CASP14 meeting, Virtual (2020), [poster](https://kliment-olechnovic.github.io/curriculum-vitae/posters/CASP_2020.png)
