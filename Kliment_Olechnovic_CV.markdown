@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-09-01.  
+Updated on 2025-09-22.  
 Latest CV online:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -320,6 +320,7 @@ Cover Image for *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Oral presentations at international conferences
 
+* Open Databases Integration for Materials Design Workshop, Lithuania, Vilnius (2025)
 * Computing in Crystallography Forum, Poland, Poznan (2025)
 * PSB Symposium on Machine Learning in Cellular Structural Biology, France, Grenoble (2025)
 * ELIXIR 3DBioinfo Annual General Meeting | ISCB 3DSig 2025, Spain, Barcelona (2025)

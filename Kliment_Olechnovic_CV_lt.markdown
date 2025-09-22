@@ -2,7 +2,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Atnaujinta 2025-09-01.  
+Atnaujinta 2025-09-22.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -293,6 +293,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ### Žodiniai pranešimai traptautinėse konferencijose
 
+* Open Databases Integration for Materials Design Workshop, Lietuva, Vilnius (2025)
 * Computing in Crystallography Forum, Lenkija, Poznanė (2025)
 * PSB Symposium on Machine Learning in Cellular Structural Biology, Prancūzija, Grenoblis (2025)
 * ELIXIR 3DBioinfo Annual General Meeting | ISCB 3DSig 2025, Ispanija, Barselona (2025)
