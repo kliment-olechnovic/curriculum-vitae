@@ -513,7 +513,7 @@ Poster title: *CAD-score: a new method for the evaluation of protein structural 
 ### Other achievements
 
 **2018**
-: Judo champion of Lithuania, judo black belt.
+: Judo champion of Lithuania, judo black belt. See the profile at [JudoInside.com](https://www.judoinside.com/judoka/60520/Kliment_Olechnovic/judo-results).
 
 **2018**
 : Sambo champion of Lithuania.
