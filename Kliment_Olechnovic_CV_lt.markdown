@@ -291,7 +291,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 
 ## Pranešimai konferencijose
 
-### Žodiniai pranešimai traptautinėse konferencijose
+### Žodiniai pranešimai tarptautinėse konferencijose
 
 * Open Databases Integration for Materials Design Workshop, Lietuva, Vilnius (2025)
 * Computing in Crystallography Forum, Lenkija, Poznanė (2025)
@@ -310,7 +310,7 @@ Viršelis žurnalui *Proteins*. 2019 Volume 85, Issue 6.
 * CASP12 konferencija, Italija, Gaeta (2016)
 * CASP10 konferencija, Italija, Gaeta (2012)
 
-### Stendiniai pranešimai traptautinėse konferencijose
+### Stendiniai pranešimai tarptautinėse konferencijose
 
 * PSB Symposium, Prancūzija, Grenoblis (2025)
 * ML4NGP konferencija, Lietuva, Vilnius (2025)
