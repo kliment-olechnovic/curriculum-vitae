@@ -4,7 +4,7 @@
 
 Atnaujinta 2025-09-22.  
 Nuoroda į CV anglų kalba:
-[https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
+[https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
 

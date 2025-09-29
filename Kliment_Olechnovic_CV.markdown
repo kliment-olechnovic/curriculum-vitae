@@ -20,7 +20,7 @@
 
 Updated on 2025-09-22.  
 Latest CV online:
-[https://www.kliment.lt](https://kliment-olechnovic.github.io/curriculum-vitae/index.html)
+[https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
 
 ## Introduction
@@ -514,7 +514,7 @@ Poster title: *CAD-score: a new method for the evaluation of protein structural 
 ### Other achievements
 
 **2018**
-: Judo champion of Lithuania, judo black belt. See the profile at [JudoInside.com](https://www.judoinside.com/judoka/60520/Kliment_Olechnovic/judo-results).
+: Judo champion of Lithuania, judo black belt. [Profile on JudoInside.com](https://www.judoinside.com/judoka/60520/Kliment_Olechnovic/judo-results).
 
 **2018**
 : Sambo champion of Lithuania.
