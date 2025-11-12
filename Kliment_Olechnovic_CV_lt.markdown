@@ -54,7 +54,7 @@ Nuoroda į CV anglų kalba:
 : Vyresnysis mokslo darbuotojas (Vilniaus universitetas / Gyvybės mokslų centras / Biotechnologijos institutas)
 
 **2025**
-: Vizituojantis mokslininkas, 8 savaitės (EPFL LPDI, Grenoblis, Prancūzija)
+: Vizituojantis mokslininkas, 8 savaitės (EPFL LPDI, Lozana, Šveicarija)
 
 **2023–2025**
 : MSCA Postdoctoral Fellow, 2 metai (CNRS Laboratoire Jean Kuntzmann, Grenoblis, Prancūzija)
