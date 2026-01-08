@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2025-09-22.  
+Updated on 2026-01-08.  
 Latest CV online:
 [https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -118,7 +118,13 @@ In 2023-2025 I was also a member of the [GruLab](https://grulab.imag.fr) researc
 
 ### Research papers
 
-1. [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1101/2024.02.05.577169).  
+1. [Systematic analyses of lipid mobilization by human lipid transfer proteins](https://doi.org/10.1038/s41586-025-10040-y).  
+Titeca K, Chiapparino A, Hennrich ML, Türei D, Moqadam M, Talandashti R, Cuveillier C, van Ek L, Zukowska J, Triana S, Echelard F, Nielsen IO, Foged MM, Gehin C, **Olechnovič K**, Grudinin S, Saez-Rodriguez J, Alexandrov T, Maeda K, Reuter N & Gavin AC.  
+*Nature*. 2026 Jan 7.  
+[doi:10.1038/s41586-025-10040-y](https://doi.org/10.1038/s41586-025-10040-y)  
+[PMID:41501472](https://pubmed.ncbi.nlm.nih.gov/41501472/).
+
+1. [Voronota-LT: efficient, flexible and solvent-aware tessellation-based analysis of atomic interactions](https://doi.org/10.1002/jcc.70178).  
 **Olechnovič K**, Grudinin S.  
 *J Comput Chem*. 2025 Jul;46(19):e70178.  
 [doi:10.1002/jcc.70178](https://doi.org/10.1002/jcc.70178)  
