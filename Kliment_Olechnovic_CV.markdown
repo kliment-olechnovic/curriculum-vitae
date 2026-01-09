@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2026-01-08.  
+Updated on 2026-01-09.  
 Latest CV online:
 [https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -435,7 +435,7 @@ TemStaPro was mainly developed by Ieva Pudžiuvelytė.
 
 * [Cover art 1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/cover1.jpg)
 
-* [Variety 1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage1.jpg) and [Variety 2](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage2.jpg)
+* [Variety 1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage1.jpg), [Variety 2](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage2.jpg), [Variety 3](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage3.jpg)
 
 * [Icy tessellation](https://kliment-olechnovic.github.io/curriculum-vitae/posters/mokslasirmenas2013.jpg)
 
