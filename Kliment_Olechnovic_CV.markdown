@@ -11,7 +11,7 @@
 
 <a href="#main-published-software">Software</a>
 
-<a href="#achievements-and-awards">Other</a>
+<a href="#art-in-science">Other</a>
 </div>
 
 # Dr. Kliment Olechnovič
@@ -425,6 +425,19 @@ with peptides that can contain non-canonical amino acid residues.
 * **TemStaPro**: a standalone software for protein thermostability prediction using sequence representations from protein language models.  
 [https://github.com/ievapudz/TemStaPro](https://github.com/ievapudz/TemStaPro).  
 TemStaPro was mainly developed by Ieva Pudžiuvelytė.
+
+
+## Art in Science
+
+* [Contact Map Drum Machine](https://kliment-olechnovic.github.io/contact-map-noise/web/)
+
+* [Disassembled tessellation](https://kliment-olechnovic.github.io/curriculum-vitae/posters/disassembled_tessellation.jpg)
+
+* [Cover art 1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/cover1.jpg)
+
+* [Variety 1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage1.jpg) and [Variety 2](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage2.jpg)
+
+* [Icy tessellation](https://kliment-olechnovic.github.io/curriculum-vitae/posters/mokslasirmenas2013.jpg)
 
 
 ## Achievements and awards
