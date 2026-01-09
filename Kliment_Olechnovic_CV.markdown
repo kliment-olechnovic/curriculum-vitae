@@ -435,9 +435,11 @@ TemStaPro was mainly developed by Ieva Pudžiuvelytė.
 
 * [Cover art 1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/cover1.jpg)
 
-* [Variety 1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage1.jpg), [Variety 2](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage2.jpg), [Variety 3](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage3.jpg)
+* Variety montages: [v1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage1.jpg), [v2](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage2.jpg), [v3](https://kliment-olechnovic.github.io/curriculum-vitae/posters/collage3.jpg)
 
 * [Icy tessellation](https://kliment-olechnovic.github.io/curriculum-vitae/posters/mokslasirmenas2013.jpg)
+
+* Auto-stereograms: [s1](https://kliment-olechnovic.github.io/curriculum-vitae/posters/stereogram_alpha_helix.png),  [s2](https://kliment-olechnovic.github.io/curriculum-vitae/posters/stereogram_1ema.png), [s3](https://kliment-olechnovic.github.io/curriculum-vitae/posters/stereogram_3bep.png)
 
 
 ## Achievements and awards
