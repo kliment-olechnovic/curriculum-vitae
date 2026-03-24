@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2026-01-09.  
+Updated on 2026-03-24.  
 Latest CV online:
 [https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -404,6 +404,9 @@ with peptides that can contain non-canonical amino acid residues.
 
 * **VoroIF-GNN-v2**: a new version of the VoroIF-GNN, uses tessellation contact area-based pseudoenergy descriptors based on the observed and expected probabilities of contacts to occur and persist in folded conformations.  
 [https://github.com/kliment-olechnovic/voroif-gnn-v2-app](https://github.com/kliment-olechnovic/voroif-gnn-v2-app)
+
+* **CAD-score-LT**: a versatile high-performance implementation of the Contact Area Difference score (CAD-score) for superposition-free comparison of macromolecular structures, interfaces, and binding sites.  
+[https://kliment-olechnovic.github.io/voronota/expansion_lt_cadscore/](https://kliment-olechnovic.github.io/voronota/expansion_lt_cadscore/)
 
 * **FTDMP**: a software system for running docking experiments and scoring/ranking multimeric models (includes VoroIF-jury and VoroIF-GNN methods).  
 [https://kliment-olechnovic.github.io/ftdmp/](https://kliment-olechnovic.github.io/ftdmp/)
