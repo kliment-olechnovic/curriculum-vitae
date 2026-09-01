@@ -2,7 +2,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Atnaujinta 2026-01-09.  
+Atnaujinta 2026-09-01.  
 Nuoroda į CV anglų kalba:
 [https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -24,6 +24,9 @@ Nuoroda į CV anglų kalba:
 
 **ORCID**
 : <https://orcid.org/0000-0003-4918-9505>
+
+**Web of Science**
+: <https://www.webofscience.com/wos/author/record/AAZ-9188-2021>
 
 **Semantic Scholar**
 : <https://www.semanticscholar.org/author/2671554>

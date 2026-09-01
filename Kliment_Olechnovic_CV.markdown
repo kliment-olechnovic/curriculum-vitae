@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2026-03-24.  
+Updated on 2026-09-01.  
 Latest CV online:
 [https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -57,6 +57,9 @@ In 2023-2025 I was also a member of the [GruLab](https://grulab.imag.fr) researc
 
 **ORCID**
 : <https://orcid.org/0000-0003-4918-9505>
+
+**Web of Science**
+: <https://www.webofscience.com/wos/author/record/AAZ-9188-2021>
 
 **Semantic Scholar**
 : <https://www.semanticscholar.org/author/2671554>
