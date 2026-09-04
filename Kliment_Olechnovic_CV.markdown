@@ -295,15 +295,18 @@ Dapkūnas J, Timinskas A, **Olechnovič K**, Margelevičius M, Diciunas R, Vencl
 
 * (preprint) [Voronoi tessellation-based analysis of molecular structures using Voronota-LT](https://doi.org/10.5281/zenodo.22296755).  
 **Olechnovič K**.  
-In: to appear in *Structural Bioinformatics: Methods and Protocols, Second Edition*. Springer. 2026-2027.
+In: to appear in *Structural Bioinformatics: Methods and Protocols, Second Edition*. Springer. 2026-2027.  
+*Zenodo* [doi:10.5281/zenodo.22296755](https://doi.org/10.5281/zenodo.22296755).
 
 * [Contact Area-Based Structural Analysis of Proteins and Their Complexes Using CAD-Score](https://doi.org/10.1007/978-1-0716-0270-6_6).  
 **Olechnovič K**, Venclovas Č.  
-In: *Zoltán Gáspári (eds) Structural Bioinformatics: Methods and Protocols, Methods in Molecular Biology, vol. 2112*. Springer. 2020.
+In: *Zoltán Gáspári (eds) Structural Bioinformatics: Methods and Protocols, Methods in Molecular Biology, vol. 2112*. Springer. 2020.  
+[doi:10.1007/978-1-0716-0270-6_6](https://doi.org/10.1007/978-1-0716-0270-6_6).
 
 * [In Silico Modeling of Inhibitor Binding to Carbonic Anhydrases](https://doi.org/10.1007/978-3-030-12780-0_15).  
 Kairys V, **Olechnovič K**, Raškevičius V, Matulis D.  
-In: *Matulis D. (eds) Carbonic Anhydrase as Drug Target*. Springer, Cham. 2019.
+In: *Matulis D. (eds) Carbonic Anhydrase as Drug Target*. Springer, Cham. 2019.  
+[doi:10.1007/978-3-030-12780-0_15](https://doi.org/10.1007/978-3-030-12780-0_15).
 
 
 ### Doctoral dissertation
