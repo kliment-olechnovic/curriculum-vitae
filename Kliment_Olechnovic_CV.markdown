@@ -293,6 +293,10 @@ Dapkūnas J, Timinskas A, **Olechnovič K**, Margelevičius M, Diciunas R, Vencl
 
 ### Book chapters
 
+* (preprint) [Voronoi tessellation-based analysis of molecular structures using Voronota-LT](https://doi.org/10.5281/zenodo.22296755).  
+**Olechnovič K**.  
+In: to appear in *Structural Bioinformatics: Methods and Protocols, Second Edition*. Springer. 2026-2027.
+
 * [Contact Area-Based Structural Analysis of Proteins and Their Complexes Using CAD-Score](https://doi.org/10.1007/978-1-0716-0270-6_6).  
 **Olechnovič K**, Venclovas Č.  
 In: *Zoltán Gáspári (eds) Structural Bioinformatics: Methods and Protocols, Methods in Molecular Biology, vol. 2112*. Springer. 2020.
