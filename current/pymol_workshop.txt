@@ -1,0 +1,65 @@
+# Intro to PDB, using 1AZM for example (5)
+
+# Intro to PyMol (5)
+
+# Load and explore 1AZM in PyMol, use different GUI functions and representation (15)
+
+	fetch 1azm
+
+# Use various selection commands (10)
+
+	select acidic, resn ASP+GLU
+	select basic, resn LYS+ARG
+	select aromatic, resn PHE+TYR
+	
+	select nterm, resi 1-30
+	select cterm, resi 200-300
+	
+	select nterm_acidic, nterm and acidic
+	select ionized, acidic or basic
+
+# Find active center by distance (10)
+
+	select active, all within 6 of resn ZN
+	select active_residues, byres active
+
+	select active_ligand, all within 5 of resn AZM
+	select active_ligand_residues, byres active_ligand
+
+# Measure distance (5)
+
+	distance d_zn_ligand, name ZN, resn AZM and name N1
+
+# Compare two structures and their active centers (10)
+
+	align 1ca2, 1azm
+	
+	select zn2, 1ca2 and resn ZN
+	select active_2, (byres all within 6 of zn2) and 1ca2
+	
+	align 1ca2, 1cam
+	
+	select zn3, 1cam and resn ZN
+	select active_3, (byres all within 6 of zn3) and 1cam
+
+# Save results as images (5)
+
+# Model mutant with HHPred, check with VoroMQA (15)
+
+# Exercise: compare 2HHB and 1HHO (15)
+
+# Try HIV proteases 7HVP 1HSG 1HXB 1HXW
+
+# Try DNA 1BNA
+
+# Try protein-DNA complex 3BEP
+
+# Try RNA 2TRA
+
+# Try ribosome 4V5C
+
+# Try protein-protein complex 2ZSK
+
+# Show PPI3D server
+
+# Show WTSAM server
