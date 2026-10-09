@@ -92,7 +92,7 @@ Nuoroda į CV anglų kalba:
 
 ### Mokslinės publikacijos
 
-1. (preprint)[VoroMarmotte: predicting ensemble-derived protein contact stability from a single structure](https://doi.org/10.5281/zenodo.23267194).  
+1. (preprint) [VoroMarmotte: predicting ensemble-derived protein contact stability from a single structure](https://doi.org/10.5281/zenodo.23267194).  
 **Olechnovič K**, Grudinin S.  
 Preprint 2026.  
 *Zenodo* [doi:10.5281/zenodo.23267194](https://doi.org/10.5281/zenodo.23267194).

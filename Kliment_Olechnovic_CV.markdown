@@ -121,7 +121,7 @@ In 2023-2025 I was also a member of the [GruLab](https://grulab.imag.fr) researc
 
 ### Research papers
 
-1. (preprint)[VoroMarmotte: predicting ensemble-derived protein contact stability from a single structure](https://doi.org/10.5281/zenodo.23267194).  
+1. (preprint) [VoroMarmotte: predicting ensemble-derived protein contact stability from a single structure](https://doi.org/10.5281/zenodo.23267194).  
 **Olechnovič K**, Grudinin S.  
 Preprint 2026.  
 *Zenodo* [doi:10.5281/zenodo.23267194](https://doi.org/10.5281/zenodo.23267194).
