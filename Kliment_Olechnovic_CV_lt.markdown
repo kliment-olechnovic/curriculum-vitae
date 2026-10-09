@@ -92,6 +92,16 @@ Nuoroda į CV anglų kalba:
 
 ### Mokslinės publikacijos
 
+1. (preprint)[VoroMarmotte: predicting ensemble-derived protein contact stability from a single structure](https://doi.org/10.5281/zenodo.23267194).  
+**Olechnovič K**, Grudinin S.  
+Preprint 2026.  
+*Zenodo* [doi:10.5281/zenodo.23267194](https://doi.org/10.5281/zenodo.23267194).
+
+1. [CAD-score-LT: versatile contact area-based comparison of macromolecular structures, interfaces, and binding sites](https://doi.org/10.1093/bioinformatics/btag756).  
+**Olechnovič K**.  
+*Bioinformatics*. 2026.  
+[doi:10.1093/bioinformatics/btag756](https://doi.org/10.1093/bioinformatics/btag756).
+
 1. [Systematic analyses of lipid mobilization by human lipid transfer proteins](https://doi.org/10.1038/s41586-025-10040-y).  
 Titeca K, Chiapparino A, Hennrich ML, Türei D, Moqadam M, Talandashti R, Cuveillier C, van Ek L, Zukowska J, Triana S, Echelard F, Nielsen IO, Foged MM, Gehin C, **Olechnovič K**, Grudinin S, Saez-Rodriguez J, Alexandrov T, Maeda K, Reuter N & Gavin AC.  
 *Nature*. 2026 Jan 7.  
