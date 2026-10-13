@@ -8,7 +8,7 @@ DOCUMENTTITLE="Dr. Kliment Olechnovič"
 
 {
 cat ./Kliment_Olechnovic_CV.markdown | egrep '^## Introduction$' -B 999999 | head -n -1
-cat ./Kliment_Olechnovic_CV.markdown | egrep '^## General information$' -A 999999
+cat ./Kliment_Olechnovic_CV.markdown | egrep '^## General information$' -A 999999 | grep -v 'posters/montage.png'
 } > ./Kliment_Olechnovic_CV_for_pdf.markdown
 
 ########################################
@@ -37,11 +37,22 @@ rm ./Kliment_Olechnovic_CV_for_pdf.markdown
 
 ################################################################################
 
+{
+cat ./Kliment_Olechnovic_CV_lt.markdown | grep -v 'posters/montage.png'
+} > ./Kliment_Olechnovic_CV_lt_for_pdf.markdown
+
+
+################################################################################
+
 rm -f ./Kliment_Olechnovic_CV_lt.html
 rm -f ./Kliment_Olechnovic_CV_lt.pdf
 
-pandoc ./Kliment_Olechnovic_CV_lt.markdown --css pandoc.css -f markdown -t html --metadata title="$DOCUMENTTITLE" --variable title="" -s -o ./Kliment_Olechnovic_CV_lt.html
+pandoc ./Kliment_Olechnovic_CV_lt_for_pdf.markdown --css pandoc.css -f markdown -t html --metadata title="$DOCUMENTTITLE" --variable title="" -s -o ./Kliment_Olechnovic_CV_lt.html
 wkhtmltopdf --enable-local-file-access -L 12mm -R 12mm -T 12mm -B 12mm ./Kliment_Olechnovic_CV_lt.html ./Kliment_Olechnovic_CV_lt.pdf > /dev/null
+
+################################################################################
+
+rm ./Kliment_Olechnovic_CV_lt_for_pdf.markdown
 
 ################################################################################
 

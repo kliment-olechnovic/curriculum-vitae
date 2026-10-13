@@ -18,7 +18,7 @@
 
 <img style="width:180px;float:right;margin:20px;" src="photo_alt.jpg">
 
-Updated on 2026-09-01.  
+Updated on 2026-10-12.  
 Latest CV online:
 [https://www.kliment.lt](https://www.kliment.lt)
  | [pdf](https://kliment-olechnovic.github.io/curriculum-vitae/Kliment_Olechnovic_CV.pdf).
@@ -452,6 +452,8 @@ TemStaPro was mainly developed by Ieva Pudžiuvelytė.
 
 
 ## Art in Science
+
+* [Pirate Vision](https://kliment-olechnovic.github.io/pirate-vision/) (it is actually quite useful)
 
 * [Contact Map Drum Machine](https://kliment-olechnovic.github.io/contact-map-noise/web/)
 
